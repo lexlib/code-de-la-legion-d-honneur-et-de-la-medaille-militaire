@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1991-04-27
+Version Consolidée au 1993-07-23
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -1747,9 +1747,9 @@ _Cite_:
 
 ###### Article R90
 
-Toute personne qui a perdu la qualité de Français peut être exclue de l'ordre.
+Toute personne qui a perdu la qualité de Français peut être exclue de l'ordre. 
 
-Cette exclusion est de droit dans les cas visés aux articles 96, 97 et 98 du code de la nationalité française.
+Cette exclusion est de droit dans les cas visés aux articles 23-7,23-8 et 25 du code civil.
 
 **Liens relatifs à cet article**
 
@@ -1757,13 +1757,18 @@ _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R107 (V)
+  - Loi n°93-933 du 22 juillet 1993 - art. 50 () JORF 23 juillet 1993
 
 _Cite_:
 
-  - Code de la nationalité française 96, 97, 98
+  - Code civil - art. 23-7 (V)
+  - Code civil - art. 25 (V)
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R107 (V)
 
 
 ###### Article R91
