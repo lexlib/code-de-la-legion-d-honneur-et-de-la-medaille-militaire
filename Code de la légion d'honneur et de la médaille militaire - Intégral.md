@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1996-08-10
+Version Consolidée au 2000-11-11
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -55,40 +55,41 @@ Version Consolidée au 1996-08-10
         - [CHAPITRE I : But de l'institution. (art. R121 à R123)](#52)
         - [CHAPITRE II : Fonctionnement des établissements. (art. R124)](#53)
         - [CHAPITRE III : Administration des maisons d'éducation et personnel. (art. R125 à R127)](#54)
-      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135)](#55)
-        - [CHAPITRE I : Conditions d'attribution. (art. R128 à R130)](#56)
-        - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#57)
-    - [LIVRE II : Médaille militaire (art. R136 à R159)](#58)
-      - [TITRE I : Conditions et modalités de concession de la médaille militaire (art. R136 à R145)](#59)
-        - [CHAPITRE I : Conditions de concession (art. R136 à R141)](#60)
-          - [SECTION I : Concession à titre normal (art. R136 à R140)](#61)
-            - [PARAGRAPHE 1 : Dispositions générales. (art. R136 à R138)](#62)
-            - [PARAGRAPHE 2 : Dispositions particulières. (art. R139)](#63)
-            - [PARAGRAPHE 3 : Concession de la médaille militaire aux officiers généraux. (art. R140)](#64)
-          - [SECTION II : Concession de la médaille militaire en cas de décès ou de blessures. (art. R141)](#65)
-        - [CHAPITRE II : Modalités de concession (art. R142 à R144)](#66)
-          - [SECTION I : Préparation des décrets. (art. R142)](#67)
-          - [SECTION II : Forme et publication des décrets. (art. R143 à R144)](#68)
-        - [CHAPITRE III : Dispositions dérogatoires. (art. R145)](#69)
-      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R156)](#70)
-        - [CHAPITRE I : Insigne (art. R146 à R149)](#71)
-          - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#72)
-          - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#73)
-        - [CHAPITRE II : Traitement (art. R150 à R153)](#74)
-          - [SECTION I : Droit et admission au traitement. (art. R150)](#75)
-          - [SECTION II : Caractères du traitement. (art. R151 à R152)](#76)
-          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#77)
-        - [CHAPITRE III : Electorat. (art. R154)](#78)
-        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#79)
-      - [TITRE III : Discipline. (art. R157 à R158)](#80)
-      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#81)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#82)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#83)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#84)
-      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#85)
-      - [TITRE IV : Discipline. (art. R168)](#86)
-      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#87)
-    - [LIVRE IV : Dispositions pénales. (art. R171 à R173)](#88)
+      - [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie. (art. R127-1 à R127-4)](#55)
+      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135)](#56)
+        - [CHAPITRE I : Conditions d'attribution. (art. R128 à R130)](#57)
+        - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#58)
+    - [LIVRE II : Médaille militaire (art. R136 à R159)](#59)
+      - [TITRE I : Conditions et modalités de concession de la médaille militaire (art. R136 à R145)](#60)
+        - [CHAPITRE I : Conditions de concession (art. R136 à R141)](#61)
+          - [SECTION I : Concession à titre normal (art. R136 à R140)](#62)
+            - [PARAGRAPHE 1 : Dispositions générales. (art. R136 à R138)](#63)
+            - [PARAGRAPHE 2 : Dispositions particulières. (art. R139)](#64)
+            - [PARAGRAPHE 3 : Concession de la médaille militaire aux officiers généraux. (art. R140)](#65)
+          - [SECTION II : Concession de la médaille militaire en cas de décès ou de blessures. (art. R141)](#66)
+        - [CHAPITRE II : Modalités de concession (art. R142 à R144)](#67)
+          - [SECTION I : Préparation des décrets. (art. R142)](#68)
+          - [SECTION II : Forme et publication des décrets. (art. R143 à R144)](#69)
+        - [CHAPITRE III : Dispositions dérogatoires. (art. R145)](#70)
+      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R156)](#71)
+        - [CHAPITRE I : Insigne (art. R146 à R149)](#72)
+          - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#73)
+          - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#74)
+        - [CHAPITRE II : Traitement (art. R150 à R153)](#75)
+          - [SECTION I : Droit et admission au traitement. (art. R150)](#76)
+          - [SECTION II : Caractères du traitement. (art. R151 à R152)](#77)
+          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#78)
+        - [CHAPITRE III : Electorat. (art. R154)](#79)
+        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#80)
+      - [TITRE III : Discipline. (art. R157 à R158)](#81)
+      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#82)
+    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#83)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#84)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#85)
+      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#86)
+      - [TITRE IV : Discipline. (art. R168)](#87)
+      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#88)
+    - [LIVRE IV : Dispositions pénales. (art. R171 à R173)](#89)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -2282,13 +2283,13 @@ _Codifié par_:
 ###### Article R121
 
 Les maisons d'éducation de la Légion d'honneur de Saint-Denis et des Loges, placées sous l'autorité du grand chancelier, sont
-instituées pour assurer l'éducation de jeunes filles de nationalité française : filles ou éventuellement petites-filles de
-légionnaires français.
+instituées pour assurer l'éducation des filles, petites-filles et arrière-petites-filles de membres de l'ordre de la Légion
+d'honneur.
 
-S'il existe des places disponibles, peuvent être accueillies, à titre exceptionnel, dans les maisons d'éducation de la Légion
-d'honneur les filles de nationalité française des membres français de l'ordre national du Mérite dont la situation familiale
-le justifie ainsi que les filles et petites-filles de légionnaires étrangers. Ces admissions sont décidées par le grand
-chancelier après avis du conseil de l'ordre et, pour les légionnaires étrangers, après consultation du grand maître.
+Peuvent être accueillies, dans les maisons d'éducation de la Légion d'honneur, les filles, petites-filles et arrière-petites-
+filles des membres de l'ordre national du Mérite ainsi que les filles et petites-filles de légionnaires étrangers. Ces
+admissions sont décidées par le grand chancelier après avis du conseil de l'ordre et, pour les légionnaires étrangers, après
+consultation du grand maître.
 
 **Liens relatifs à cet article**
 
@@ -2298,7 +2299,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°87-553 1987-07-17 art. 1 JORF 19  juillet 1987
+  - Décret n°2000-1092 du 9 novembre 2000 - art. 1 () JORF 11 novembre 2000
 
 _Cité par_:
 
@@ -2401,9 +2402,95 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-### TITRE VIII : Attribution de la Légion d'honneur aux étrangers<a id=55></a>
+### TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.<a id=55></a>
 
-#### CHAPITRE I : Conditions d'attribution.<a id=56></a>
+###### Article R127-1
+
+Le musée national de la Légion d'honneur et des ordres de chevalerie, placé sous l'autorité du grand chancelier, contribue à
+la connaissance de l'histoire de l'ordre de la Légion d'honneur et des ordres et décorations français et étrangers.
+
+Il assure la conservation, la présentation et la mise en valeur des collections dont l'ordre est le propriétaire ou le
+dépositaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Créé par_:
+
+  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+
+###### Article R127-2
+
+Le grand chancelier fixe, sur le rapport du secrétaire général de la grande chancellerie, et après avis du conservateur :
+
+- le règlement intérieur du musée ;
+
+- les conditions d'accès à celui-ci ;
+
+- la composition, le fonctionnement et le rôle du conseil historique et artistique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Créé par_:
+
+  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+_Cité par_:
+
+  - Arrêté du 24 janvier 2002 - art. 3 (V)
+
+
+###### Article R127-3
+
+Le secrétaire général de la grande chancellerie assure le contrôle du fonctionnement du musée et la gestion de ses
+personnels.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Créé par_:
+
+  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+_Cité par_:
+
+  - Décret n°2003-1177 du 8 décembre 2003 - art. 1-1 (V)
+
+
+###### Article R127-4
+
+Le conservateur du musée est nommé par arrêté du grand chancelier pris sur la proposition du secrétaire général de la grande
+chancellerie, après avis du ministre chargé de la culture.
+
+Il est notamment chargé de l'inventaire, de la conservation, de la restauration, de la présentation au public et de la mise
+en valeur des collections. Il relève de l'autorité du secrétaire général de la grande chancellerie, et directement de celle
+du grand chancelier pour les matières que ce dernier s'est réservées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Créé par_:
+
+  - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
+
+
+### TITRE VIII : Attribution de la Légion d'honneur aux étrangers<a id=56></a>
+
+#### CHAPITRE I : Conditions d'attribution.<a id=57></a>
 
 ###### Article R128
 
@@ -2470,7 +2557,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille mili - art. R128 (V)
 
 
-#### CHAPITRE II : Modalités d'attribution.<a id=57></a>
+#### CHAPITRE II : Modalités d'attribution.<a id=58></a>
 
 ###### Article R131
 
@@ -2560,15 +2647,15 @@ _Cité par_:
   - Code de la Légion d'honneur et de la médaille m... - art. R159 (V)
 
 
-## LIVRE II : Médaille militaire<a id=58></a>
+## LIVRE II : Médaille militaire<a id=59></a>
 
-### TITRE I : Conditions et modalités de concession de la médaille militaire<a id=59></a>
+### TITRE I : Conditions et modalités de concession de la médaille militaire<a id=60></a>
 
-#### CHAPITRE I : Conditions de concession<a id=60></a>
+#### CHAPITRE I : Conditions de concession<a id=61></a>
 
-##### SECTION I : Concession à titre normal<a id=61></a>
+##### SECTION I : Concession à titre normal<a id=62></a>
 
-##### PARAGRAPHE 1 : Dispositions générales.<a id=62></a>
+##### PARAGRAPHE 1 : Dispositions générales.<a id=63></a>
 
 ###### Article R136
 
@@ -2621,7 +2708,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R14 (V)
 
 
-##### PARAGRAPHE 2 : Dispositions particulières.<a id=63></a>
+##### PARAGRAPHE 2 : Dispositions particulières.<a id=64></a>
 
 ###### Article R139
 
@@ -2644,7 +2731,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R46 (V)
 
 
-##### PARAGRAPHE 3 : Concession de la médaille militaire aux officiers généraux.<a id=64></a>
+##### PARAGRAPHE 3 : Concession de la médaille militaire aux officiers généraux.<a id=65></a>
 
 ###### Article R140
 
@@ -2659,7 +2746,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION II : Concession de la médaille militaire en cas de décès ou de blessures.<a id=65></a>
+##### SECTION II : Concession de la médaille militaire en cas de décès ou de blessures.<a id=66></a>
 
 ###### Article R141
 
@@ -2682,9 +2769,9 @@ _Modifié par_:
   - Décret n°81-998 1981-11-09 art. 3 et art. 4 JORF 11 novembre 1981
 
 
-#### CHAPITRE II : Modalités de concession<a id=66></a>
+#### CHAPITRE II : Modalités de concession<a id=67></a>
 
-##### SECTION I : Préparation des décrets.<a id=67></a>
+##### SECTION I : Préparation des décrets.<a id=68></a>
 
 ###### Article R142
 
@@ -2701,7 +2788,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R31 (V)
 
 
-##### SECTION II : Forme et publication des décrets.<a id=68></a>
+##### SECTION II : Forme et publication des décrets.<a id=69></a>
 
 ###### Article R143
 
@@ -2730,7 +2817,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R33 (V)
 
 
-#### CHAPITRE III : Dispositions dérogatoires.<a id=69></a>
+#### CHAPITRE III : Dispositions dérogatoires.<a id=70></a>
 
 ###### Article R145
 
@@ -2747,11 +2834,11 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R36 (V)
 
 
-### TITRE II : Droits, honneurs et prérogatives<a id=70></a>
+### TITRE II : Droits, honneurs et prérogatives<a id=71></a>
 
-#### CHAPITRE I : Insigne<a id=71></a>
+#### CHAPITRE I : Insigne<a id=72></a>
 
-##### SECTION I : Port et forme de la décoration.<a id=72></a>
+##### SECTION I : Port et forme de la décoration.<a id=73></a>
 
 ###### Article R146
 
@@ -2781,7 +2868,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION II : Remise de l'insigne.<a id=73></a>
+##### SECTION II : Remise de l'insigne.<a id=74></a>
 
 ###### Article R148
 
@@ -2821,9 +2908,9 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R72 (V)
 
 
-#### CHAPITRE II : Traitement<a id=74></a>
+#### CHAPITRE II : Traitement<a id=75></a>
 
-##### SECTION I : Droit et admission au traitement.<a id=75></a>
+##### SECTION I : Droit et admission au traitement.<a id=76></a>
 
 ###### Article R150
 
@@ -2848,7 +2935,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille mili - art. R136 (V)
 
 
-##### SECTION II : Caractères du traitement.<a id=76></a>
+##### SECTION II : Caractères du traitement.<a id=77></a>
 
 ###### Article R151
 
@@ -2886,7 +2973,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION III : Perte et suspension du droit au traitement.<a id=77></a>
+##### SECTION III : Perte et suspension du droit au traitement.<a id=78></a>
 
 ###### Article R153
 
@@ -2903,7 +2990,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R83 (V)
 
 
-#### CHAPITRE III : Electorat.<a id=78></a>
+#### CHAPITRE III : Electorat.<a id=79></a>
 
 ###### Article R154
 
@@ -2924,7 +3011,7 @@ _Cite_:
   - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R85
 
 
-#### CHAPITRE IV : Honneurs et prérogatives.<a id=79></a>
+#### CHAPITRE IV : Honneurs et prérogatives.<a id=80></a>
 
 ###### Article R155
 
@@ -2957,7 +3044,7 @@ _Abrogé par_:
   - Décret n°2010-547 du 27 mai 2010 - art. 10
 
 
-### TITRE III : Discipline.<a id=80></a>
+### TITRE III : Discipline.<a id=81></a>
 
 ###### Article R157
 
@@ -2995,7 +3082,7 @@ _Cite_:
   - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R111
 
 
-### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=81></a>
+### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=82></a>
 
 ###### Article R159
 
@@ -3012,9 +3099,9 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R135 (V)
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=82></a>
+## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=83></a>
 
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=83></a>
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=84></a>
 
 ###### Article R160
 
@@ -3060,7 +3147,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R204 (V)
 
 
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=84></a>
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=85></a>
 
 ###### Article R162
 
@@ -3129,7 +3216,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R207 (V)
 
 
-### TITRE III : Exécution des arrêtés.<a id=85></a>
+### TITRE III : Exécution des arrêtés.<a id=86></a>
 
 ###### Article R165
 
@@ -3198,7 +3285,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R210 (V)
 
 
-### TITRE IV : Discipline.<a id=86></a>
+### TITRE IV : Discipline.<a id=87></a>
 
 ###### Article R168
 
@@ -3223,7 +3310,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
 
 
-### TITRE V : Dispositions particulières.<a id=87></a>
+### TITRE V : Dispositions particulières.<a id=88></a>
 
 ###### Article R169
 
@@ -3267,7 +3354,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R213 (V)
 
 
-## LIVRE IV : Dispositions pénales.<a id=88></a>
+## LIVRE IV : Dispositions pénales.<a id=89></a>
 
 ###### Article R171
 
