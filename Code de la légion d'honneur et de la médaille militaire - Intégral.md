@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2000-11-11
+Version Consolidée au 2005-04-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -2286,9 +2286,9 @@ instituées pour assurer l'éducation des filles, petites-filles et arrière-pet
 d'honneur.
 
 Peuvent être accueillies, dans les maisons d'éducation de la Légion d'honneur, les filles, petites-filles et arrière-petites-
-filles des membres de l'ordre national du Mérite ainsi que les filles et petites-filles de légionnaires étrangers. Ces
-admissions sont décidées par le grand chancelier après avis du conseil de l'ordre et, pour les légionnaires étrangers, après
-consultation du grand maître.
+filles des médaillés militaires et des membres de l'ordre national du Mérite ainsi que les filles et petites-filles de
+légionnaires étrangers. Ces admissions sont décidées par le grand chancelier après avis du conseil de l'ordre et, pour les
+légionnaires étrangers, après consultation du grand maître.
 
 **Liens relatifs à cet article**
 
@@ -2298,7 +2298,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1092 du 9 novembre 2000 - art. 1 () JORF 11 novembre 2000
+  - Décret n°2005-301 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
 
 _Cité par_:
 
