@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1981-12-17
+Version Consolidée au 1982-07-18
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -37,7 +37,7 @@ Version Consolidée au 1981-12-17
         - [CHAPITRE II : Brevets. (art. R73 à R76)](#34)
         - [CHAPITRE III : Traitements (art. R77 à R84)](#35)
           - [SECTION I : Droit et admission au traitement. (art. R77 à R79)](#36)
-          - [SECTION II : Caractères du traitement. (art. R81 à R82)](#37)
+          - [SECTION II : Caractères du traitement. (art. R80 à R82)](#37)
           - [SECTION III : Perte et suspension du droit au traitement. (art. R83 à R84)](#38)
         - [CHAPITRE IV : Electorat. (art. R85)](#39)
         - [CHAPITRE V : Honneurs et préséances. (art. R86 à R88)](#40)
@@ -76,7 +76,7 @@ Version Consolidée au 1981-12-17
           - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#73)
         - [CHAPITRE II : Traitement (art. R150 à R153)](#74)
           - [SECTION I : Droit et admission au traitement. (art. R150)](#75)
-          - [SECTION II : Caractères du traitement. (art. R152)](#76)
+          - [SECTION II : Caractères du traitement. (art. R151 à R152)](#76)
           - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#77)
         - [CHAPITRE III : Electorat. (art. R154)](#78)
         - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#79)
@@ -1519,6 +1519,34 @@ _Codifié par_:
 
 ##### SECTION II : Caractères du traitement.<a id=37></a>
 
+###### Article R80
+
+Les titulaires du traitement de la Légion d'honneur peuvent en faire abandon, à titre définitif ou à titre temporaire, au
+profit de la Société d'entraide des membres de la Légion d'honneur, qui est autorisée àl'accepter.
+
+Ainsi qu'il est dit à l'article L. 527 du code des pensions militaires d'invalidité et des victimes de la guerre, les
+titulaires du traitement de la Légion d'honneur peuvent en faire abandon à titre définitif ou à titre temporaire au profit de
+l'Office national des anciens combattants et victimes de guerre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°82-611 1982-07-12 art. 1 JORF 18 juillet 1982
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R151 (V)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des v - art. L527 (V)
+
+
 ###### Article R81
 
 Ainsi qu'il est dit à l'article unique de la loi du 27 février 1951, le traitement afférent à la Légion d'honneur est
@@ -2787,6 +2815,30 @@ _Cité par_:
 
 
 ##### SECTION II : Caractères du traitement.<a id=76></a>
+
+###### Article R151
+
+Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire.
+
+Pour l'application du premier alinéa de l'article R. 80, l'institution au profit de laquelle les traitements attachés à la
+médaille militaire peuvent être abandonnés est la société nationale Les Médaillés militaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°82-611 1982-07-12 art. 2 JORF 18 juillet 1982
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille mili - art. R80 (V)
+  - Code de la Légion d'honneur et de la médaille mili - art. R81 (V)
+  - Code de la Légion d'honneur et de la médaille mili - art. R82 (V)
+
 
 ###### Article R152
 
