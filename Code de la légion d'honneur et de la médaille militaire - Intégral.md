@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1962-12-07
+Version Consolidée au 1963-01-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R170)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -22,7 +22,7 @@ Version Consolidée au 1962-12-07
         - [CHAPITRE III : Dispositions dérogatoires (art. R36 à R47)](#19)
           - [SECTION I : Tableaux spéciaux. (art. R36 à R38)](#20)
           - [SECTION II : Conditions d'attribution de la Légion d'honneur aux mutilés de guerre et aux déportés résistants (art. R39 à R47)](#21)
-            - [PARAGRAPHE 1 : Dispositions concernant les mutilés dont le degré d'invalidité est au moins égal à 65 p. 100. (art. R39 à R40)](#22)
+            - [PARAGRAPHE 1 : Dispositions concernant les mutilés dont le degré d'invalidité est au moins égal à 65 p. 100. (art. R39 à R41)](#22)
             - [PARAGRAPHE 2 : Dispositions concernant les mutilés 100 p. 100. (art. R42 à R45)](#23)
             - [PARAGRAPHE 3 : Dispositions communes. (art. R46 à R47)](#24)
       - [TITRE III : Réception dans l'ordre (art. R48 à R57)](#25)
@@ -35,10 +35,10 @@ Version Consolidée au 1962-12-07
       - [TITRE IV : Droits, honneurs et prérogatives des membres de l'ordre (art. R58 à R88)](#32)
         - [CHAPITRE I : Insignes. (art. R58 à R72)](#33)
         - [CHAPITRE II : Brevets. (art. R73 à R76)](#34)
-        - [CHAPITRE III : Traitements (art. R77 à R83)](#35)
+        - [CHAPITRE III : Traitements (art. R77 à R84)](#35)
           - [SECTION I : Droit et admission au traitement. (art. R77 à R79)](#36)
           - [SECTION II : Caractères du traitement. (art. R81 à R82)](#37)
-          - [SECTION III : Perte et suspension du droit au traitement. (art. R83)](#38)
+          - [SECTION III : Perte et suspension du droit au traitement. (art. R83 à R84)](#38)
         - [CHAPITRE IV : Electorat. (art. R85)](#39)
         - [CHAPITRE V : Honneurs et préséances. (art. R86 à R88)](#40)
       - [TITRE V : Discipline (art. R89 à R111)](#41)
@@ -73,19 +73,20 @@ Version Consolidée au 1962-12-07
         - [CHAPITRE I : Insigne (art. R146 à R149)](#70)
           - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#71)
           - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#72)
-        - [CHAPITRE II : Traitement (art. R152 à R153)](#73)
-          - [SECTION II : Caractères du traitement. (art. R152)](#74)
-          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#75)
-        - [CHAPITRE III : Electorat. (art. R154)](#76)
-        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#77)
-      - [TITRE III : Discipline. (art. R157 à R158)](#78)
-      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#79)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#80)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#81)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#82)
-      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#83)
-      - [TITRE IV : Discipline. (art. R168)](#84)
-      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#85)
+        - [CHAPITRE II : Traitement (art. R150 à R153)](#73)
+          - [SECTION I : Droit et admission au traitement. (art. R150)](#74)
+          - [SECTION II : Caractères du traitement. (art. R152)](#75)
+          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#76)
+        - [CHAPITRE III : Electorat. (art. R154)](#77)
+        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#78)
+      - [TITRE III : Discipline. (art. R157 à R158)](#79)
+      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#80)
+    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#81)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#82)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#83)
+      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#84)
+      - [TITRE IV : Discipline. (art. R168)](#85)
+      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#86)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -738,6 +739,29 @@ _Cite_:
 _Cité par_:
 
   - Code de la Légion d'honneur et de la médaille mili - art. R41 (V)
+
+
+###### Article R41
+
+Les personnes susceptibles de bénéficier des dispositions des articles R. 39 et R. 40 qui ont déjà reçu une distinction dans
+l'ordre de la Légion d'honneur sans traitement postérieurement aux blessures de guerre ou aux infirmités considérées comme
+telles qui sont à l'origine de leur invalidité peuvent être admises au traitement correspondant avec l'attribution d'une
+citation avec palme. Dans cette hypothèse, la prise de rang est celle du décret ayant attribué la décoration sans traitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille mili - art. R39 (V)
+  - Code de la Légion d'honneur et de la médaille mili - art. R40 (V)
 
 
 ##### PARAGRAPHE 2 : Dispositions concernant les mutilés 100 p. 100.<a id=23></a>
@@ -1478,6 +1502,22 @@ _Codifié par_:
 _Cité par_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R153 (V)
+
+
+###### Article R84
+
+La réintégration de l'ancien légionnaire dans la qualité de membre de l'ordre ou l'expiration du délai de suspension de ses
+droits entraîne le recouvrement de la jouissance du traitement à compter du 1er janvier suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
 
 
 #### CHAPITRE IV : Electorat.<a id=39></a>
@@ -2577,7 +2617,28 @@ _Cite_:
 
 #### CHAPITRE II : Traitement<a id=73></a>
 
-##### SECTION II : Caractères du traitement.<a id=74></a>
+##### SECTION I : Droit et admission au traitement.<a id=74></a>
+
+###### Article R150
+
+Toute concession de médaille militaire donne droit au traitement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
+
+_Cité par_:
+
+  - Décret n°95-1254 du 30 novembre 1995 - art. 2 (V)
+
+
+##### SECTION II : Caractères du traitement.<a id=75></a>
 
 ###### Article R152
 
@@ -2591,7 +2652,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION III : Perte et suspension du droit au traitement.<a id=75></a>
+##### SECTION III : Perte et suspension du droit au traitement.<a id=76></a>
 
 ###### Article R153
 
@@ -2608,7 +2669,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R83 (V)
 
 
-#### CHAPITRE III : Electorat.<a id=76></a>
+#### CHAPITRE III : Electorat.<a id=77></a>
 
 ###### Article R154
 
@@ -2629,7 +2690,7 @@ _Cite_:
   - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R85
 
 
-#### CHAPITRE IV : Honneurs et prérogatives.<a id=77></a>
+#### CHAPITRE IV : Honneurs et prérogatives.<a id=78></a>
 
 ###### Article R155
 
@@ -2662,7 +2723,7 @@ _Abrogé par_:
   - Décret n°2010-547 du 27 mai 2010 - art. 10
 
 
-### TITRE III : Discipline.<a id=78></a>
+### TITRE III : Discipline.<a id=79></a>
 
 ###### Article R157
 
@@ -2700,7 +2761,7 @@ _Cite_:
   - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R111
 
 
-### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=79></a>
+### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=80></a>
 
 ###### Article R159
 
@@ -2717,9 +2778,9 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R135 (V)
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=80></a>
+## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=81></a>
 
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=81></a>
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=82></a>
 
 ###### Article R160
 
@@ -2765,7 +2826,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R204 (V)
 
 
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=82></a>
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=83></a>
 
 ###### Article R162
 
@@ -2834,7 +2895,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R207 (V)
 
 
-### TITRE III : Exécution des arrêtés.<a id=83></a>
+### TITRE III : Exécution des arrêtés.<a id=84></a>
 
 ###### Article R165
 
@@ -2903,7 +2964,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R210 (V)
 
 
-### TITRE IV : Discipline.<a id=84></a>
+### TITRE IV : Discipline.<a id=85></a>
 
 ###### Article R168
 
@@ -2928,7 +2989,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
 
 
-### TITRE V : Dispositions particulières.<a id=85></a>
+### TITRE V : Dispositions particulières.<a id=86></a>
 
 ###### Article R169
 
