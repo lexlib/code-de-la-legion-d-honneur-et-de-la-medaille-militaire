@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1970-07-08
+Version Consolidée au 1981-11-11
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R170)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -7,7 +7,7 @@ Version Consolidée au 1970-07-08
         - [CHAPITRE I : Organisation générale. (art. R1 à R7)](#4)
         - [CHAPITRE II : Le grand maître. (art. R8 à R9)](#5)
         - [CHAPITRE III : Le grand chancelier. (art. R10)](#6)
-        - [CHAPITRE IV : Le conseil de l'ordre de la Légion d'honneur. (art. R13)](#7)
+        - [CHAPITRE IV : Le conseil de l'ordre de la Légion d'honneur. (art. R11 à R13)](#7)
         - [CHAPITRE V : Admission et avancement dans l'ordre. (art. R14 à R15)](#8)
       - [TITRE II : Nomination et promotion dans l'ordre (art. R16 à R47)](#9)
         - [CHAPITRE I : Conditions de nomination et de promotion. (art. R16 à R27)](#10)
@@ -60,33 +60,34 @@ Version Consolidée au 1970-07-08
         - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#57)
     - [LIVRE II : Médaille militaire (art. R136 à R159)](#58)
       - [TITRE I : Conditions et modalités de concession de la médaille militaire (art. R136 à R145)](#59)
-        - [CHAPITRE I : Conditions de concession (art. R136 à R140)](#60)
+        - [CHAPITRE I : Conditions de concession (art. R136 à R141)](#60)
           - [SECTION I : Concession à titre normal (art. R136 à R140)](#61)
             - [PARAGRAPHE 1 : Dispositions générales. (art. R136 à R138)](#62)
             - [PARAGRAPHE 2 : Dispositions particulières. (art. R139)](#63)
             - [PARAGRAPHE 3 : Concession de la médaille militaire aux officiers généraux. (art. R140)](#64)
-        - [CHAPITRE II : Modalités de concession (art. R142 à R144)](#65)
-          - [SECTION I : Préparation des décrets. (art. R142)](#66)
-          - [SECTION II : Forme et publication des décrets. (art. R143 à R144)](#67)
-        - [CHAPITRE III : Dispositions dérogatoires. (art. R145)](#68)
-      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R156)](#69)
-        - [CHAPITRE I : Insigne (art. R146 à R149)](#70)
-          - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#71)
-          - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#72)
-        - [CHAPITRE II : Traitement (art. R150 à R153)](#73)
-          - [SECTION I : Droit et admission au traitement. (art. R150)](#74)
-          - [SECTION II : Caractères du traitement. (art. R152)](#75)
-          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#76)
-        - [CHAPITRE III : Electorat. (art. R154)](#77)
-        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#78)
-      - [TITRE III : Discipline. (art. R157 à R158)](#79)
-      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#80)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#81)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#82)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#83)
-      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#84)
-      - [TITRE IV : Discipline. (art. R168)](#85)
-      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#86)
+          - [SECTION II : Concession de la médaille militaire en cas de décès ou de blessures. (art. R141)](#65)
+        - [CHAPITRE II : Modalités de concession (art. R142 à R144)](#66)
+          - [SECTION I : Préparation des décrets. (art. R142)](#67)
+          - [SECTION II : Forme et publication des décrets. (art. R143 à R144)](#68)
+        - [CHAPITRE III : Dispositions dérogatoires. (art. R145)](#69)
+      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R156)](#70)
+        - [CHAPITRE I : Insigne (art. R146 à R149)](#71)
+          - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#72)
+          - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#73)
+        - [CHAPITRE II : Traitement (art. R150 à R153)](#74)
+          - [SECTION I : Droit et admission au traitement. (art. R150)](#75)
+          - [SECTION II : Caractères du traitement. (art. R152)](#76)
+          - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#77)
+        - [CHAPITRE III : Electorat. (art. R154)](#78)
+        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#79)
+      - [TITRE III : Discipline. (art. R157 à R158)](#80)
+      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#81)
+    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#82)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#83)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#84)
+      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#85)
+      - [TITRE IV : Discipline. (art. R168)](#86)
+      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#87)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -248,6 +249,47 @@ _Codifié par_:
 
 
 #### CHAPITRE IV : Le conseil de l'ordre de la Légion d'honneur.<a id=7></a>
+
+###### Article R11
+
+Le conseil de l'ordre de la Légion d'honneur comprend :
+
+Le grand chancelier, président ;
+
+Quatorze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+
+Un membre titulaire du grade d'officier ;
+
+Un membre titulaire du grade de chevalier.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
+
+###### Article R12
+
+Les membres du conseil de l'ordre de la Légion d'honneur sont choisis par le grand maître, sur proposition du grand
+chancelier.
+
+Ils sont nommés par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
 
 ###### Article R13
 
@@ -481,6 +523,32 @@ _Codifié par_:
 _Cité par_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R30 (V)
+
+
+###### Article R26
+
+Le Premier ministre est autorisé par délégation du grand maître à nommer ou à promouvoir dans l'ordre, dans un délai d'un
+mois, les personnes tuées ou blessées dans l'accomplissement de leur devoir et qui sont reconnues dignes de recevoir cette
+distinction.
+
+Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
+dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°76-123 1976-02-05 art. 1 JORF 7 février 1976
+  - Décret n°81-998 1981-11-09 art. 1 JORF 11 novembre 1981
+
+_Cité par_:
+
+  - Décret du 7 juillet 2016 - art. (V)
+  - Code des pensions militaires d'invalidité et de... - art. D355-26 (V)
 
 
 ###### Article R27
@@ -2532,9 +2600,32 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-#### CHAPITRE II : Modalités de concession<a id=65></a>
+##### SECTION II : Concession de la médaille militaire en cas de décès ou de blessures.<a id=65></a>
 
-##### SECTION I : Préparation des décrets.<a id=66></a>
+###### Article R141
+
+Le ministre de la défense est autorisé par le grand maître à concéder soit directement, soit par voie de délégation, la
+médaille militaire, dans un délai d'un mois, à des militaires et assimilés non officiers, tués ou blessés dans
+l'accomplissement de leur devoir et qui sont reconnus dignes de recevoir cette distinction.
+
+Les décorations ainsi attribuées sont régularisées dans le délai le plus bref par décret rendu en conformité avec les
+dispositions du présent code et mentionnant les circonstances qui ont entraîné la mesure d'exception.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°76-123 1976-02-05 art. 2 JORF 7 février 1976
+  - Décret n°81-998 1981-11-09 art. 3 et art. 4 JORF 11 novembre 1981
+
+
+#### CHAPITRE II : Modalités de concession<a id=66></a>
+
+##### SECTION I : Préparation des décrets.<a id=67></a>
 
 ###### Article R142
 
@@ -2551,7 +2642,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R31 (V)
 
 
-##### SECTION II : Forme et publication des décrets.<a id=67></a>
+##### SECTION II : Forme et publication des décrets.<a id=68></a>
 
 ###### Article R143
 
@@ -2580,7 +2671,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R33 (V)
 
 
-#### CHAPITRE III : Dispositions dérogatoires.<a id=68></a>
+#### CHAPITRE III : Dispositions dérogatoires.<a id=69></a>
 
 ###### Article R145
 
@@ -2597,11 +2688,11 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R36 (V)
 
 
-### TITRE II : Droits, honneurs et prérogatives<a id=69></a>
+### TITRE II : Droits, honneurs et prérogatives<a id=70></a>
 
-#### CHAPITRE I : Insigne<a id=70></a>
+#### CHAPITRE I : Insigne<a id=71></a>
 
-##### SECTION I : Port et forme de la décoration.<a id=71></a>
+##### SECTION I : Port et forme de la décoration.<a id=72></a>
 
 ###### Article R146
 
@@ -2631,7 +2722,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION II : Remise de l'insigne.<a id=72></a>
+##### SECTION II : Remise de l'insigne.<a id=73></a>
 
 ###### Article R148
 
@@ -2671,9 +2762,9 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R72 (V)
 
 
-#### CHAPITRE II : Traitement<a id=73></a>
+#### CHAPITRE II : Traitement<a id=74></a>
 
-##### SECTION I : Droit et admission au traitement.<a id=74></a>
+##### SECTION I : Droit et admission au traitement.<a id=75></a>
 
 ###### Article R150
 
@@ -2694,7 +2785,7 @@ _Cité par_:
   - Décret n°95-1254 du 30 novembre 1995 - art. 2 (V)
 
 
-##### SECTION II : Caractères du traitement.<a id=75></a>
+##### SECTION II : Caractères du traitement.<a id=76></a>
 
 ###### Article R152
 
@@ -2708,7 +2799,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION III : Perte et suspension du droit au traitement.<a id=76></a>
+##### SECTION III : Perte et suspension du droit au traitement.<a id=77></a>
 
 ###### Article R153
 
@@ -2725,7 +2816,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R83 (V)
 
 
-#### CHAPITRE III : Electorat.<a id=77></a>
+#### CHAPITRE III : Electorat.<a id=78></a>
 
 ###### Article R154
 
@@ -2746,7 +2837,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille militaire - art. R85
 
 
-#### CHAPITRE IV : Honneurs et prérogatives.<a id=78></a>
+#### CHAPITRE IV : Honneurs et prérogatives.<a id=79></a>
 
 ###### Article R155
 
@@ -2779,7 +2870,7 @@ _Abrogé par_:
   - Décret n°2010-547 du 27 mai 2010 - art. 10
 
 
-### TITRE III : Discipline.<a id=79></a>
+### TITRE III : Discipline.<a id=80></a>
 
 ###### Article R157
 
@@ -2817,7 +2908,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille militaire - art. R111
 
 
-### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=80></a>
+### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=81></a>
 
 ###### Article R159
 
@@ -2834,9 +2925,9 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R135 (V)
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=81></a>
+## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=82></a>
 
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=82></a>
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=83></a>
 
 ###### Article R160
 
@@ -2866,7 +2957,7 @@ _Cité par_:
   - Code de la Légion d'honneur et de la médaille m... - art. R173 (V)
 
 
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=83></a>
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=84></a>
 
 ###### Article R162
 
@@ -2911,7 +3002,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-### TITRE III : Exécution des arrêtés.<a id=84></a>
+### TITRE III : Exécution des arrêtés.<a id=85></a>
 
 ###### Article R165
 
@@ -2952,7 +3043,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-### TITRE IV : Discipline.<a id=85></a>
+### TITRE IV : Discipline.<a id=86></a>
 
 ###### Article R168
 
@@ -2969,7 +3060,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-### TITRE V : Dispositions particulières.<a id=86></a>
+### TITRE V : Dispositions particulières.<a id=87></a>
 
 ###### Article R169
 
