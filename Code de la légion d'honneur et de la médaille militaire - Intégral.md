@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -1855,8 +1855,8 @@ _Codifié par_:
 
 ###### Article R97
 
-Ainsi qu'il résulte de l'article 259 du code pénal, toute personne qui aura porté les insignes de la Légion d'honneur ou ceux
-d'une décoration française ou étrangère sans en avoir le droit sera punie des peines prévues audit article.
+Ainsi qu'il résulte de l'article 433-17 du code pénal, toute personne qui aura porté les insignes de la Légion d'honneur ou
+ceux d'une décoration française ou étrangère sans en avoir le droit sera punie des peines prévues audit article.
 
 Ainsi qu'il est dit à l'article 263 du code pénal, les fondateurs, directeurs ou gérants de sociétés ou établissements à
 objet commercial, industriel ou financier qui auront fait ou laissé figurer le nom d'un membre de la Légion d'honneur avec
@@ -1869,9 +1869,22 @@ _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
+
+_Abrogé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 14
+
 _Cite_:
 
-  - Code pénal 259, 263, 262
+  - Code pénal
+  - Code pénal - art. 433-17
 
 
 #### CHAPITRE II : Procédure disciplinaire<a id=43></a>
