@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1970-02-18
+Version Consolidée au 1970-07-08
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R170)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -11,9 +11,9 @@ Version Consolidée au 1970-02-18
         - [CHAPITRE V : Admission et avancement dans l'ordre. (art. R14 à R15)](#8)
       - [TITRE II : Nomination et promotion dans l'ordre (art. R16 à R47)](#9)
         - [CHAPITRE I : Conditions de nomination et de promotion. (art. R16 à R27)](#10)
-          - [SECTION I : Propositions à titre normal (art. R18 à R23)](#11)
+          - [SECTION I : Propositions à titre normal (art. R18 à R24)](#11)
             - [PARAGRAPHE 1 : Dispositions générales. (art. R18 à R20)](#12)
-            - [PARAGRAPHE 2 : Dispositions particulières. (art. R21 à R23)](#13)
+            - [PARAGRAPHE 2 : Dispositions particulières. (art. R21 à R24)](#13)
           - [SECTION II : Propositions à titre exceptionnel. (art. R25 à R27)](#14)
         - [CHAPITRE II : Modalités de nomination et de promotion (art. R28 à R35)](#15)
           - [SECTION I : Préparation des décrets. (art. R28 à R32)](#16)
@@ -443,6 +443,26 @@ Les contrôleurs financiers ne peuvent être décorés sur le contingent des min
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+
+###### Article R24
+
+Pour un étranger admis à la nationalité française qui a sollicité sa naturalisation alors qu'il n'était plus assujetti aux
+obligations du service militaire actif, le décompte des années de services exigées pour son admission ou son avancement dans
+la Légion d'honneur a comme point de départ la date de sa naturalisation.
+
+Il peut être néanmoins dérogé aux dispositions ci-dessus par décision du grand maître, après avis du conseil de l'ordre, en
+faveur des Français visés à l'alinéa précédent qui se sont signalés par des mérites particulièrement éminents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°70-580 1970-07-06 art. 1 JORF 8 juillet 1970
 
 
 ##### SECTION II : Propositions à titre exceptionnel.<a id=14></a>
@@ -2290,6 +2310,29 @@ _Cité par_:
 _Cite_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R48 (V)
+
+
+###### Article R129
+
+Les étrangers bénéficiaires des dispositions de l'article précédent et résidant habituellement en France ou y exerçant une
+activité professionnelle sont soumis aux conditions imposées aux Français par les articles R. 17 à R. 20. 
+
+Toutefois, les étrangers qui se sont signalés par des mérites particulièrement éminents peuvent être dispensés desdites
+conditions par décision du grand maître, après avis du conseil de l'ordre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°70-580 1970-07-06 art. 2 JORF 8 juillet 1970
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R17 (V)
 
 
 ###### Article R130
