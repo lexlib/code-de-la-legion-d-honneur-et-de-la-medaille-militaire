@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1982-07-18
+Version Consolidée au 1990-07-01
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -1447,22 +1447,6 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°2016-1254 du 27 septembre 2016 (V)
-
-
-###### Article R75
-
-Ces droits sont prélevés, pour les membres de la Légion d'honneur jouissant d'un traitement à ce titre, sur le montant de ce
-traitement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°90-536 1990-06-29 art. 1 JORF 1er juillet 1990
 
 
 ###### Article R76
