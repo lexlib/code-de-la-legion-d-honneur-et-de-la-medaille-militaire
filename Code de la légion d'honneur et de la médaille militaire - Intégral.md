@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1963-01-01
+Version Consolidée au 1970-02-18
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R170)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -48,7 +48,7 @@ Version Consolidée au 1963-01-01
           - [SECTION II : Procédure devant le conseil de l'ordre. (art. R103 à R105)](#45)
         - [CHAPITRE III : Décision et exécution. (art. R106 à R111)](#46)
       - [TITRE VI : Administration de l'ordre (art. R112 à R120)](#47)
-        - [CHAPITRE I : Attributions du grand chancelier. (art. R112 à R117)](#48)
+        - [CHAPITRE I : Attributions du grand chancelier. (art. R112 à R118)](#48)
         - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur. (art. R119)](#49)
         - [CHAPITRE III : Régime financier. (art. R120)](#50)
       - [TITRE VII : Maisons d'éducation (art. R121 à R127)](#51)
@@ -2067,6 +2067,36 @@ l'exclusion de l'ordre de la Libération et de la médaille de la Résistance.
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+
+###### Article R118
+
+Un secrétaire général nommé par le Président de la République dirige, sous la haute autorité du grand chancelier,
+l'administration centrale de la grande chancellerie.
+
+Il a délégation générale et permanente à l'effet de signer, au nom du grand chancelier de la Légion d'honneur, tous actes,
+arrêtés et décisions, à l'exception des déclarations formulées au nom du conseil de l'ordre.
+
+Il assure le secrétariat général du conseil de l'ordre et la direction des services de l'administration.
+
+Le grand chancelier peut, par arrêté, déléguer sa signature à des fonctionnaires de la grande chancellerie nommément
+désignés, à l'effet de signer, en son nom et en cas d'absence ou d'empêchement du secrétaire général, les mandats de
+paiement, les titres de perception et toutes pièces comptables concernant l'ordonnancement des dépenses de l'administration
+centrale de la grande chancellerie et des maisons d'éducation de la Légion d'honneur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°70-130 1970-02-16 art. 1 JORF 18 février 1970
+
+_Cité par_:
+
+  - Décret n°2003-1177 du 8 décembre 2003 - art. 1-1 (V)
 
 
 #### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.<a id=49></a>
