@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1995-12-02
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -1458,8 +1458,9 @@ _Codifié par_:
 
 ###### Article R77
 
-Les décorations de l'ordre de la Légion d'honneur attribuées pour faits de guerre, en considération de blessure de guerre ou
-de citation, ou pour récompenser un acte exceptionnel de courage ou de dévouement peuvent être assorties du traitement.
+Toutes les décorations de l'ordre de la Légion d'honneur attribuées aux militaires et assimilés, au titre militaire actif,
+ainsi qu'aux personnes décorées pour faits de guerre, en considération de blessure de guerre ou de citation, donnent droit au
+traitement.
 
 **Liens relatifs à cet article**
 
@@ -1469,7 +1470,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-396 du 24 avril 1991 - art. 1 () JORF 27 avril 1991
+  - Décret n°95-1253 du 30 novembre 1995 - art. 1 () JORF 2 décembre 1995
 
 _Cité par_:
 
@@ -2802,8 +2803,7 @@ _Cite_:
 
 ###### Article R150
 
-Les concessions de la médaille militaire aux personnes visées aux 2°, 3° et 4° de l'article R. 136 peuvent être assorties du
-traitement.
+Toute concession de médaille militaire donne droit au traitement.
 
 **Liens relatifs à cet article**
 
@@ -2813,7 +2813,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-396 du 24 avril 1991 - art. 2 () JORF 27 avril 1991
+  - Décret n°95-1253 du 30 novembre 1995 - art. 2 () JORF 2 décembre 1995
 
 _Cité par_:
 
