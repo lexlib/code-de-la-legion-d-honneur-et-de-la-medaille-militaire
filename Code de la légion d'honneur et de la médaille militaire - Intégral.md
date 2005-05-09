@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2005-04-01
+Version Consolidée au 2005-05-10
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -484,13 +484,18 @@ _Cité par_:
 
 ###### Article R23
 
-Les contrôleurs financiers ne peuvent être décorés sur le contingent des ministères qu'ils contrôlent.
+Les membres du corps du contrôle général économique et financier ne peuvent être décorés sur le contingent des ministères
+qu'ils contrôlent.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
 
 
 ###### Article R24
