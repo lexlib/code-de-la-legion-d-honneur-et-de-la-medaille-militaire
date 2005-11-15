@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-11-16
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -116,13 +116,15 @@ La Légion d'honneur constitue un ordre national.
 
 Il est doté de la personnalité morale.
 
-Son budget est un budget annexe rattaché pour ordre au ministère de la justice.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 1 () JORF 16 novembre 2005
 
 _Cité par_:
 
@@ -156,14 +158,18 @@ _Codifié par_:
 
 ###### Article R5
 
-Le conseil de l'ordre, réuni sous la présidence du grand chancelier, délibère sur les questions relatives au statut de
-l'ordre, aux nominations ou promotions dans la hiérarchie et à la discipline des membres de l'ordre.
+Le conseil de l'ordre, réuni sous la présidence du grand chancelier, délibère sur les questions relatives au statut et au
+budget de l'ordre, aux nominations ou promotions dans la hiérarchie et à la discipline des membres de l'ordre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 2 () JORF 16 novembre 2005
 
 
 ###### Article R6
@@ -2186,13 +2192,18 @@ _Codifié par_:
 
 ###### Article R116
 
-Il dirige, assisté du conseil de l'ordre, l'administration et les établissements de la Légion d'honneur.
+Il dirige, assisté du conseil de l'ordre, l'administration et les établissements de la Légion d'honneur. Il est ordonnateur
+principal de l'ordre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 3 () JORF 16 novembre 2005
 
 
 ###### Article R117
@@ -2215,7 +2226,8 @@ l'administration centrale de la grande chancellerie.
 Il a délégation générale et permanente à l'effet de signer, au nom du grand chancelier de la Légion d'honneur, tous actes,
 arrêtés et décisions, à l'exception des déclarations formulées au nom du conseil de l'ordre.
 
-Il assure le secrétariat général du conseil de l'ordre et la direction des services de l'administration.
+Il assure le secrétariat général du conseil de l'ordre et la direction des services de l'administration. II prépare le budget
+de l'ordre.
 
 Le grand chancelier peut, par arrêté, déléguer sa signature à des chefs de service et des fonctionnaires de catégorie A de la
 grande chancellerie nommément désignés, à l'effet de signer, en son nom et en cas d'absence ou d'empêchement du secrétaire
@@ -2229,13 +2241,13 @@ _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
 
-_Modifié par_:
-
-  - Décret n°96-697 du 7 août 1996 - art. 2 () JORF 10 août 1996
-
 _Cité par_:
 
   - Décret n°2003-1177 du 8 décembre 2003 - art. 1-1 (V)
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 4 () JORF 16 novembre 2005
 
 
 #### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.<a id=49></a>
@@ -2254,25 +2266,45 @@ Le conseil de l'ordre, réuni par le grand chancelier, donne son avis :
 
 2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter.
 
+Il approuve le budget de l'ordre et est tenu informé de son exécution par le grand chancelier.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 5 () JORF 16 novembre 2005
 
 
 #### CHAPITRE III : Régime financier.<a id=50></a>
 
 ###### Article R120
 
-Les opérations inscrites au budget annexe de la Légion d'honneur sont faites sous la responsabilité d'un agent comptable
-justiciable de la Cour des comptes.
+Les recettes de l'ordre comprennent notamment :
+
+1° La subvention de l'Etat ;
+
+2° Le produit des droits de chancellerie ;
+
+3° Le produit des pensions et trousseaux des élèves des maisons d'éducation ;
+
+4° Les dons et legs.
+
+Les opérations inscrites au budget de la Légion d'honneur sont faites sous la responsabilité d'un agent comptable justiciable
+de la Cour des comptes.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°62-1472 1962-11-28
+
+_Modifié par_:
+
+  - Décret n°2005-1406 du 15 novembre 2005 - art. 6 () JORF 16 novembre 2005
 
 
 ### TITRE VII : Maisons d'éducation<a id=51></a>
