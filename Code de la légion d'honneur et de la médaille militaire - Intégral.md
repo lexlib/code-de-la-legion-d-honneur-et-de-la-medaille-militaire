@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2008-03-15
+Version Consolidée au 2008-11-23
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
@@ -16,7 +16,7 @@ Version Consolidée au 2008-03-15
             - [PARAGRAPHE 2 : Dispositions particulières. (art. R21 à R24)](#13)
           - [SECTION II : Propositions à titre exceptionnel. (art. R25 à R27)](#14)
         - [CHAPITRE II : Modalités de nomination et de promotion (art. R28 à R35)](#15)
-          - [SECTION I : Préparation des décrets. (art. R28 à R32)](#16)
+          - [SECTION I : Préparation des décrets. (art. R28 à R32-1)](#16)
           - [SECTION II : Forme et publication des décrets. (art. R33 à R34)](#17)
           - [SECTION III : Exécution des décrets. (art. R35)](#18)
         - [CHAPITRE III : Dispositions dérogatoires (art. R36 à R47)](#19)
@@ -361,11 +361,20 @@ _Codifié par_:
 
 Nul ne peut accéder à la Légion d'honneur dans un grade supérieur à celui de chevalier.
 
+Toutefois des nominations directes aux grades d'officier et de commandeur ainsi qu'à la dignité de grand officier peuvent
+intervenir, dans les conditions fixées à l'article R. 32-1, afin de récompenser des carrières hors du commun, tant par leur
+durée que par l'éminence des services rendus. Ces nominations interviennent dans la limite de 2 % de chaque contingent annuel
+correspondant en ce qui concerne les grades d'officier et de commandeur et dans la limite d'une nomination par an en ce qui
+concerne la dignité de grand officier.
+
+La dignité de grand officier appartient de plein droit aux anciens Premiers ministres qui ont exercé leurs fonctions durant
+deux années au moins.
+
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2008-1202 du 21 novembre 2008 - art. 2
 
 _Cité par_:
 
@@ -401,21 +410,18 @@ _Modifié par_:
 
 ###### Article R19
 
-Ne peuvent être promus aux grades d'officier ou de commandeur de la Légion d'honneur que les chevaliers et les officiers
-comptant au minimum respectivement huit et cinq ans dans leur grade et justifiant de titres de la qualité requise acquis
-postérieurement à l'accession audit grade.
+Sans préjudice de l'application du deuxième alinéa de l'article R. 17, ne peuvent être promus aux grades d'officier ou de
+commandeur de la Légion d'honneur que les chevaliers et les officiers comptant au minimum respectivement huit et cinq ans
+dans leur grade et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade.
 
-Ne peuvent être élevés à la dignité de grand officier ou de grand'croix que les commandeurs et les grands officiers comptant
-au minimum respectivement trois ans dans leur grade ou dignité et justifiant de titres de la qualité requise acquis
-postérieurement à l'accession audit grade ou à la première dignité.
+A l'exception du cas prévu au troisième alinéa de l'article R. 17, ne peuvent être élevés à la dignité de grand officier ou
+de grand'croix que les commandeurs et les grands officiers comptant au minimum respectivement trois ans dans leur grade ou
+dignité et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade ou à la première
+dignité. 
 
 Un avancement dans la Légion d'honneur doit récompenser des mérites nouveaux et non des mérites déjà récompensés.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
 
 _Cité par_:
 
@@ -423,6 +429,14 @@ _Cité par_:
   - Code de la Légion d'honneur et de la médaille m... - art. R43 (V)
   - Code de la Légion d'honneur et de la médaille mili - art. R20 (V)
   - Code des pensions militaires d'invalidité et de... - art. R351-2 (V)
+
+_Modifié par_:
+
+  - Décret n°2008-1202 du 21 novembre 2008 - art. 3
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille militaire - art. R17
 
 
 ###### Article R20
@@ -681,6 +695,25 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
+###### Article R32-1
+
+<font color="#000000">Les propositions prévues au deuxième alinéa de l'article R. 17 sont soumises par le grand maître au
+conseil de l'ordre, accompagnées de la notice prévue à l'article R. 29. Le conseil se prononce dans les conditions fixées à
+l'article R. 31.</font>
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1202 du 21 novembre 2008 - art. 4
+
+_Cite_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R17 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R29 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R31 (V)
+
+
 ##### SECTION II : Forme et publication des décrets.<a id=17></a>
 
 ###### Article R33
@@ -715,14 +748,14 @@ _Cite_:
 
 ###### Article R34
 
-Lorsqu'ils concernent des nominations et promotions à titre exceptionnel, des promotions au grade de commandeur et aux
-dignités de grand officier et de grand'croix, ces décrets sont pris en conseil des ministres.
+Lorsqu'ils concernent les nominations directes, les nominations et promotions à titre exceptionnel, les promotions au grade
+de commandeur et aux dignités de grand officier et de grand'croix, ces décrets sont pris en conseil des ministres.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2008-1202 du 21 novembre 2008 - art. 5
 
 
 ##### SECTION III : Exécution des décrets.<a id=18></a>
