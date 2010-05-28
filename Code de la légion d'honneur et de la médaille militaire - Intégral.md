@@ -1,8 +1,8 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2008-11-23
+Version Consolidée au 2010-05-29
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
-    - [LIVRE I : Légion d'honneur (art. R1 à R135)](#2)
+    - [LIVRE I : Légion d'honneur (art. R1 à R135-4)](#2)
       - [TITRE I : Objet et composition de l'ordre (art. R1 à R15)](#3)
         - [CHAPITRE I : Organisation générale. (art. R1 à R7)](#4)
         - [CHAPITRE II : Le grand maître. (art. R8 à R9)](#5)
@@ -39,27 +39,27 @@ Version Consolidée au 2008-11-23
           - [SECTION I : Droit et admission au traitement. (art. R77 à R79)](#36)
           - [SECTION II : Caractères du traitement. (art. R80 à R82)](#37)
           - [SECTION III : Perte et suspension du droit au traitement. (art. R83 à R84)](#38)
-        - [CHAPITRE IV : Electorat. (art. R85)](#39)
-        - [CHAPITRE V : Honneurs et préséances. (art. R86 à R88)](#40)
-      - [TITRE V : Discipline (art. R89 à R111)](#41)
-        - [CHAPITRE I : Peines disciplinaires. (art. R89 à R97)](#42)
-        - [CHAPITRE II : Procédure disciplinaire (art. R98 à R105)](#43)
-          - [SECTION I : Procédure préliminaire. (art. R98 à R102)](#44)
-          - [SECTION II : Procédure devant le conseil de l'ordre. (art. R103 à R105)](#45)
-        - [CHAPITRE III : Décision et exécution. (art. R106 à R111)](#46)
-      - [TITRE VI : Administration de l'ordre (art. R112 à R120)](#47)
-        - [CHAPITRE I : Attributions du grand chancelier. (art. R112 à R118)](#48)
-        - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur. (art. R119)](#49)
-        - [CHAPITRE III : Régime financier. (art. R120)](#50)
-      - [TITRE VII : Maisons d'éducation (art. R121 à R127)](#51)
-        - [CHAPITRE I : But de l'institution. (art. R121 à R123)](#52)
-        - [CHAPITRE II : Fonctionnement des établissements. (art. R124)](#53)
-        - [CHAPITRE III : Administration des maisons d'éducation et personnel. (art. R125 à R127)](#54)
-      - [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie. (art. R127-1 à R127-4)](#55)
-      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135)](#56)
-        - [CHAPITRE I : Conditions d'attribution. (art. R128 à R130)](#57)
-        - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#58)
-    - [LIVRE II : Médaille militaire (art. R136 à R159)](#59)
+        - [CHAPITRE V : Honneurs et préséances. (art. R86 à R88)](#39)
+      - [TITRE V : Discipline (art. R89 à R110)](#40)
+        - [CHAPITRE I : Peines disciplinaires. (art. R89 à R96)](#41)
+        - [CHAPITRE II : Procédure disciplinaire (art. R98 à R105)](#42)
+          - [SECTION I : Procédure préliminaire. (art. R98 à R102)](#43)
+          - [SECTION II : Procédure devant le conseil de l'ordre. (art. R103 à R105)](#44)
+        - [CHAPITRE III : Décision et exécution. (art. R106 à R110)](#45)
+      - [TITRE VI : Administration de l'ordre (art. R112 à R120)](#46)
+        - [CHAPITRE I : Attributions du grand chancelier. (art. R112 à R118)](#47)
+        - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur. (art. R119)](#48)
+        - [CHAPITRE III : Régime financier. (art. R120)](#49)
+      - [TITRE VII : Maisons d'éducation (art. R121 à R127)](#50)
+        - [CHAPITRE I : But de l'institution. (art. R121 à R123)](#51)
+        - [CHAPITRE II : Fonctionnement des établissements. (art. R124)](#52)
+        - [CHAPITRE III : Administration des maisons d'éducation et personnel. (art. R125 à R127)](#53)
+      - [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie. (art. R127-1 à R127-4)](#54)
+      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135-4)](#55)
+        - [CHAPITRE I : Conditions d'attribution. (art. R128 à R130)](#56)
+        - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#57)
+        - [CHAPITRE III : Retrait (art. R135-1 à R135-4)](#58)
+    - [LIVRE II : Médaille militaire (art. R136 à R159-1)](#59)
       - [TITRE I : Conditions et modalités de concession de la médaille militaire (art. R136 à R145)](#60)
         - [CHAPITRE I : Conditions de concession (art. R136 à R141)](#61)
           - [SECTION I : Concession à titre normal (art. R136 à R140)](#62)
@@ -71,7 +71,7 @@ Version Consolidée au 2008-11-23
           - [SECTION I : Préparation des décrets. (art. R142)](#68)
           - [SECTION II : Forme et publication des décrets. (art. R143 à R144)](#69)
         - [CHAPITRE III : Dispositions dérogatoires. (art. R145)](#70)
-      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R156)](#71)
+      - [TITRE II : Droits, honneurs et prérogatives (art. R146 à R155)](#71)
         - [CHAPITRE I : Insigne (art. R146 à R149)](#72)
           - [SECTION I : Port et forme de la décoration. (art. R146 à R147)](#73)
           - [SECTION II : Remise de l'insigne. (art. R148 à R149)](#74)
@@ -79,17 +79,16 @@ Version Consolidée au 2008-11-23
           - [SECTION I : Droit et admission au traitement. (art. R150)](#76)
           - [SECTION II : Caractères du traitement. (art. R151 à R152)](#77)
           - [SECTION III : Perte et suspension du droit au traitement. (art. R153)](#78)
-        - [CHAPITRE III : Electorat. (art. R154)](#79)
-        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155 à R156)](#80)
-      - [TITRE III : Discipline. (art. R157 à R158)](#81)
-      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159)](#82)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#83)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#84)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#85)
-      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#86)
-      - [TITRE IV : Discipline. (art. R168)](#87)
-      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#88)
-    - [LIVRE IV : Dispositions pénales. (art. R171 à R173)](#89)
+        - [CHAPITRE IV : Honneurs et prérogatives. (art. R155)](#79)
+      - [TITRE III : Discipline. (art. R157)](#80)
+      - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159 à R159-1)](#81)
+    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#82)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#83)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#84)
+      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#85)
+      - [TITRE IV : Discipline. (art. R168)](#86)
+      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#87)
+    - [LIVRE IV : Dispositions pénales. (art. R171 à R173)](#88)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -159,17 +158,14 @@ _Codifié par_:
 ###### Article R5
 
 Le conseil de l'ordre, réuni sous la présidence du grand chancelier, délibère sur les questions relatives au statut et au
-budget de l'ordre, aux nominations ou promotions dans la hiérarchie et à la discipline des membres de l'ordre.
+budget de l'ordre, aux nominations ou promotions dans la hiérarchie et à la discipline     des membres de l'ordre et des
+bénéficiaires de distinctions de l'ordre.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
 _Modifié par_:
 
-  - Décret n°2005-1406 du 15 novembre 2005 - art. 2 () JORF 16 novembre 2005
+  - Décret n°2010-547 du 27 mai 2010 - art. 4
 
 
 ###### Article R6
@@ -470,16 +466,16 @@ _Cite_:
 
 ###### Article R21
 
-Les militaires et assimilés ne peuvent être nommés ou promus aux grades de chevalier et d'officier de la Légion d'honneur
-qu'après inscription sur un tableau de concours dans les conditions fixées par décret.
+Les militaires ne peuvent être nommés ou promus aux grades de chevalier et d'officier de la Légion d'honneur qu'après
+inscription sur un tableau de concours dans les conditions fixées par décret.
 
 Cette disposition ne concerne pas les officiers généraux.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 3
 
 
 ###### Article R22
@@ -625,8 +621,8 @@ _Cité par_:
 ###### Article R29
 
 Toute proposition est accompagnée d'une notice exposant les motifs qui la justifient et les résultats de l'enquête faite sur
-l'honorabilité et la moralité du candidat, ainsi que d'une fiche individuelle d'état civil en ce qui concerne les
-propositions pour le grade de chevalier.
+l'honorabilité et la moralité du candidat, ainsi que d'un document d'état civil en ce qui concerne les propositions pour le
+grade de chevalier.
 
 La notice fournie doit être conforme au modèle annexé au présent code et être accompagnée, le cas échéant, de l'avis des
 différents ministres dont a relevé le candidat ou du ministre des affaires étrangères si l'intéressé a résidé à l'étranger.
@@ -636,9 +632,9 @@ accompagnée d'un bulletin n° 2 du casier judiciaire datant de moins de deux mo
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 5
 
 _Cité par_:
 
@@ -773,14 +769,14 @@ _Modifié par_:
 Le grand chancelier, après chaque nomination ou promotion, adresse des lettres d'avis à toutes les personnes nommées ou
 promues.
 
-Ces lettres d'avis leur prescrivent de s'acquitter des droits de chancellerie en vue de l'expédition de leur brevet et de
+Ces lettres d'avis leur prescrivent de s'acquitter des droits de chancellerie en vue de l'établissement de leur brevet et de
 demander l'autorisation de se faire recevoir.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 6
 
 
 #### CHAPITRE III : Dispositions dérogatoires<a id=19></a>
@@ -1192,33 +1188,33 @@ _Codifié par_:
 
 ###### Article R55
 
-Les militaires et assimilés sont reçus au cours d'une prise d'armes selon le cérémonial ci-après décrit et dans les
-conditions les plus propres à rehausser l'éclat de la récompense accordée et des services rendus :
+La réception s'effectue selon les modalités suivantes :
 
-1° Les officiers (jusqu'au grade de colonel ou assimilé inclus) et les personnels non officiers faisant partie d'une unité ou
-formation : lors d'une revue devant l'unité ou formation à laquelle ils appartiennent, par leur chef de corps ou de
-formation, ou un officier général, ou par l'officier commandant le détachement dont ils font partie si cet officier est
-officier supérieur ; dans le cas contraire, la réception est faite par le commandant d'armes. L'officier délégué doit être un
-membre de l'ordre d'un grade au moins égal à celui du récipiendaire ;
+1° Pour les officiers (jusqu'au grade de colonel ou assimilé inclus) et le personnel non officier faisant partie d'une unité
+ou formation, lors d'une cérémonie militaire devant l'unité ou formation à laquelle ils appartiennent, par un officier
+général ou un officier supérieur ;
 
-2° Les officiers généraux promus officiers ou commandeurs de la Légion d'honneur sont reçus par le délégué du grand
-chancelier qui doit être pourvu au moins du même grade qu'eux dans l'ordre ;
+2° Pour les officiers généraux promus officiers ou commandeurs, par le délégué du grand chancelier ;
 
-3° Les décorations des grand'croix et des grands officiers sont remises à ces dignitaires par le Président de la République
-ou, en vertu de sa délégation, par le ministre des armées ou un dignitaire militaire d'un rang au moins égal ;
+3° Pour les grands officiers et les grand'croix, par le Président de la République ou, en vertu de sa délégation, par le
+ministre de la défense ou un dignitaire militaire ;
 
-4° Les militaires et assimilés ne faisant partie d'aucune unité ou formation sont reçus devant la garnison convoquée pour
-être passée en revue par le commandant d'armes ou son délégué.
+4° Pour les autres récipiendaires nommés ou promus à titre militaire, soit selon les modalités définies au 1° lorsqu'ils le
+souhaitent et que les circonstances le permettent, soit par une personnalité de leur choix.
+
+Dans tous les cas, le délégué du grand chancelier doit être d'un grade ou d'une dignité au moins égal à celui du
+récipiendaire.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
 
 _Cité par_:
 
   - Décret n°2003-1300 du 26 décembre 2003 - art. 20 (VD)
+
+_Modifié par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 2
+  - Décret n°2010-547 du 27 mai 2010 - art. 7
 
 
 ###### Article R56
@@ -1485,14 +1481,14 @@ _Codifié par_:
 
 ###### Article R74
 
-Il est perçu par la grande chancellerie de la Légion d'honneur, pour l'expédition des brevets, des droits de chancellerie
+Il est perçu par la grande chancellerie de la Légion d'honneur, pour l'établissement des brevets, des droits de chancellerie
 dont le montant est fixé par décret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 6
 
 _Cité par_:
 
@@ -1675,97 +1671,49 @@ _Modifié par_:
   - Décret n°64-121 1964-02-06 art. 1 JORF 11 février 1964 en vigueur le 1er janvier 1963
 
 
-#### CHAPITRE IV : Electorat.<a id=39></a>
-
-###### Article R85
-
-Ainsi qu'il est dit à l'article L. 3 du code électoral, est électeur dès l'âge de dix-huit ans tout jeune Français titulaire
-de la Légion d'honneur.
-
-**Nota:**
-
-L'article L. 3 du code électoral a été abrogé par l'article 3 de la loi n° 74-631 du 5 juillet 1974.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 8
-
-_Cite_:
-
-  - Code électoral
-
-_Cité par_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R154 (Ab)
-
-
-#### CHAPITRE V : Honneurs et préséances.<a id=40></a>
+#### CHAPITRE V : Honneurs et préséances.<a id=39></a>
 
 ###### Article R86
 
-Les rangs de préséances du grand chancelier de la Légion d'honneur et du conseil de l'ordre sont prévus aux articles 1 et 2
-du décret du 16 juin 1907, modifié par le décret du 2 décembre 1958.
+Les rangs de préséance du grand chancelier et des membres du conseil de l'ordre sont prévus aux articles 2 à 8 du décret n°
+89-655 du 13 novembre 1989 relatif aux cérémonies publiques, préséances, honneurs civils et militaires.
+
+**Nota:**
+
+Au lieu de " décret n° 89-655 du 13 novembre 1989 ", il convient de lire " décret n° 89-655 du 13 septembre 1989 ".
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret du 16 juin 1907, v. init.
-  - Décret n°58-1167 1958-12-02
+  - Décret n°89-655 du 13 septembre 1989 - art. 2
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
-
-
-###### Article R87
-
-Les honneurs à rendre par les troupes aux dignitaires de la Légion d'honneur porteurs de leur décoration sont ceux prévus
-pour les officiers généraux à l'article 50 du décret du 26 juillet 1934.
-
-Les honneurs à rendre par les militaires isolés aux membres de la Légion d'honneur porteurs de la croix de la Légion
-d'honneur sont prévus à l'article 51 du décret du 26 juillet 1934.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1934-07-26 art. 50, art. 51
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 10
+  - Décret n°2010-547 du 27 mai 2010 - art. 9
 
 
 ###### Article R88
 
 Les honneurs funèbres militaires dus aux dignitaires de l'ordre national de la Légion d'honneur sont rendus conformément aux
-dispositions des articles 52 et 53 du décret du 26 juillet 1934.
+dispositions des articles 45 et 48 du décret n° 89-655 du 13 septembre 1989 relatif aux cérémonies publiques, préséances,
+honneurs civils et militaires.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°1934-07-26 art. 52, art. 53
+  - Décret n°89-655 du 13 septembre 1989 - art. 45
+  - Décret n°89-655 du 13 septembre 1989 - art. 48
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 11
 
 
-### TITRE V : Discipline<a id=41></a>
+### TITRE V : Discipline<a id=40></a>
 
-#### CHAPITRE I : Peines disciplinaires.<a id=42></a>
+#### CHAPITRE I : Peines disciplinaires.<a id=41></a>
 
 ###### Article R89
 
@@ -1853,14 +1801,14 @@ _Codifié par_:
 
 ###### Article R93
 
-L'état de contumace entraîne la suspension de l'exercice des droits et prérogatives de membre de l'ordre de la Légion
-d'honneur.
+L'état de défaut en matière criminelle entraîne la suspension de l'exercice des droits et prérogatives de membre de l'ordre
+de la Légion d'honneur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 12
 
 _Cité par_:
 
@@ -1893,67 +1841,35 @@ _Codifié par_:
 
 ###### Article R96
 
-Les peines disciplinaires prévues au présent chapitre peuvent être prises contre tout légionnaire qui aura commis un acte
-contraire à l'honneur.
+Les peines disciplinaires prévues au présent chapitre peuvent être prises contre tout membre de l'ordre qui aura commis un
+acte contraire à l'honneur.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-
-###### Article R97
-
-Ainsi qu'il résulte de l'article 433-17 du code pénal, toute personne qui aura porté les insignes de la Légion d'honneur ou
-ceux d'une décoration française ou étrangère sans en avoir le droit sera punie des peines prévues audit article.
-
-Ainsi qu'il est dit à l'article 263 du code pénal, les fondateurs, directeurs ou gérants de sociétés ou établissements à
-objet commercial, industriel ou financier qui auront fait ou laissé figurer le nom d'un membre de la Légion d'honneur avec
-mention de sa qualité dans toute publicité faite dans l'intérêt de l'entreprise qu'ils dirigent ou qu'ils se proposent de
-fonder seront punis des peines prévues à l'article 262 du même code.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 13 (M)
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 14
-
-_Cite_:
-
-  - Code pénal
-  - Code pénal - art. 433-17
+  - Décret n°2010-547 du 27 mai 2010 - art. 13
 
 
-#### CHAPITRE II : Procédure disciplinaire<a id=43></a>
+#### CHAPITRE II : Procédure disciplinaire<a id=42></a>
 
-##### SECTION I : Procédure préliminaire.<a id=44></a>
+##### SECTION I : Procédure préliminaire.<a id=43></a>
 
 ###### Article R98
 
-Le ministre de la justice et le ministre des armées transmettent au grand chancelier des copies de tous les jugements et
-arrêts rendus en matière criminelle et correctionnelle concernant des membres de l'ordre.
+Le ministre de la justice et le ministre de la défense transmettent au grand chancelier des copies de tous les jugements et
+arrêts rendus en matière criminelle et correctionnelle concernant     des membres de l'ordre et des bénéficiaires de
+distinctions de l'ordre. 
 
 Chacun des ministres intéressés transmet au grand chancelier les décisions des juridictions disciplinaires relevant de son
 autorité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 2
+  - Décret n°2010-547 du 27 mai 2010 - art. 4
 
 
 ###### Article R99
@@ -1971,32 +1887,36 @@ _Codifié par_:
 
 ###### Article R100
 
-Le ministre des armées informe le grand chancelier des fautes graves commises par des légionnaires soumis à son autorité.
+Le ministre de la défense informe le grand chancelier des fautes graves commises par des membres de l'ordre et des
+bénéficiaires de distinctions de l'ordre soumis à son autorité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 15
+  - Décret n°2010-547 du 27 mai 2010 - art. 2
 
 
 ###### Article R101
 
 Les préfets qui, dans l'exercice de leurs fonctions, sont informés de faits graves de nature à entraîner contre un
-légionnaire l'application des dispositions de l'article R. 89 sont tenus d'en rendre compte au grand chancelier.
+légionnaire l'application des dispositions des articles R. 89, R. 135-1 et R. 135-2 sont tenus d'en rendre compte au grand
+chancelier. 
 
 Leur rapport est transmis par la voie hiérarchique et par l'intermédiaire du ministre compétent dans le cas où le légionnaire
 exerce des fonctions publiques.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 16
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille mili - art. R89 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R135-1 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R89 (V)
 
 
 ###### Article R102
@@ -2013,7 +1933,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-##### SECTION II : Procédure devant le conseil de l'ordre.<a id=45></a>
+##### SECTION II : Procédure devant le conseil de l'ordre.<a id=44></a>
 
 ###### Article R103
 
@@ -2067,7 +1987,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-#### CHAPITRE III : Décision et exécution.<a id=46></a>
+#### CHAPITRE III : Décision et exécution.<a id=45></a>
 
 ###### Article R106
 
@@ -2145,35 +2065,9 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-###### Article R111
+### TITRE VI : Administration de l'ordre<a id=46></a>
 
-Les procureurs généraux et procureurs de la République, les commissaires du Gouvernement près les tribunaux des forces armées
-ne peuvent faire exécuter aucune peine infamante contre un membre de la Légion d'honneur qu'il n'ait été dégradé.
-
-Pour cette dégradation, le président de la cour, sur le réquisitoire du parquet, ou le président du tribunal des forces
-armées, sur le réquisitoire du commissaire du Gouvernement, prononce, immédiatement après la lecture du jugement, la formule
-suivante :
-
-" Vous avez manqué à l'honneur ; je déclare au nom de la Légion d'honneur que vous avez cessé d'en être membre. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 17
-
-_Cité par_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R158 (Ab)
-
-
-### TITRE VI : Administration de l'ordre<a id=47></a>
-
-#### CHAPITRE I : Attributions du grand chancelier.<a id=48></a>
+#### CHAPITRE I : Attributions du grand chancelier.<a id=47></a>
 
 ###### Article R112
 
@@ -2289,7 +2183,7 @@ _Modifié par_:
   - Décret n°2005-1406 du 15 novembre 2005 - art. 4 () JORF 16 novembre 2005
 
 
-#### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.<a id=49></a>
+#### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.<a id=48></a>
 
 ###### Article R119
 
@@ -2301,7 +2195,8 @@ règlements en vigueur ainsi que des principes fondamentaux de l'ordre.
 
 Le conseil de l'ordre, réuni par le grand chancelier, donne son avis :
 
-1° Sur les sanctions disciplinaires à prendre à l'encontre des membres de l'ordre ;
+1° Sur les sanctions disciplinaires à prendre à l'encontre de membres de l'ordre et sur le retrait des distinctions de la
+Légion d'honneur accordées à des étrangers. 
 
 2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter.
 
@@ -2309,16 +2204,12 @@ Il approuve le budget de l'ordre et est tenu informé de son exécution par le g
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
 _Modifié par_:
 
-  - Décret n°2005-1406 du 15 novembre 2005 - art. 5 () JORF 16 novembre 2005
+  - Décret n°2010-547 du 27 mai 2010 - art. 18
 
 
-#### CHAPITRE III : Régime financier.<a id=50></a>
+#### CHAPITRE III : Régime financier.<a id=49></a>
 
 ###### Article R120
 
@@ -2346,9 +2237,9 @@ _Modifié par_:
   - Décret n°2005-1406 du 15 novembre 2005 - art. 6 () JORF 16 novembre 2005
 
 
-### TITRE VII : Maisons d'éducation<a id=51></a>
+### TITRE VII : Maisons d'éducation<a id=50></a>
 
-#### CHAPITRE I : But de l'institution.<a id=52></a>
+#### CHAPITRE I : But de l'institution.<a id=51></a>
 
 ###### Article R121
 
@@ -2391,17 +2282,17 @@ _Codifié par_:
 
 ###### Article R123
 
-Les maisons d'éducation de la Légion d'honneur constituent des internats où sont professés les enseignements généraux et
-professionnels, et éventuellement l'enseignement des classes préparatoires aux grandes écoles.
+Les maisons d'éducation de la Légion d'honneur constituent des internats où sont professés les enseignements du second degré,
+et éventuellement l'enseignement des classes préparatoires aux grandes écoles.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 19
 
 
-#### CHAPITRE II : Fonctionnement des établissements.<a id=53></a>
+#### CHAPITRE II : Fonctionnement des établissements.<a id=52></a>
 
 ###### Article R124
 
@@ -2413,16 +2304,16 @@ La liste des élèves admises ;
 
 Le programme des études et les règles de scolarité ;
 
-Le régime intérieur.
+Le règlement intérieur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 20
 
 
-#### CHAPITRE III : Administration des maisons d'éducation et personnel.<a id=54></a>
+#### CHAPITRE III : Administration des maisons d'éducation et personnel.<a id=53></a>
 
 ###### Article R125
 
@@ -2445,17 +2336,18 @@ _Cité par_:
 Les deux maisons d'éducation sont placées sous l'autorité unique d'une surintendante, en résidence à Saint-Denis, qui assure
 l'unité de l'éducation et de l'enseignement donnés aux élèves et celle de l'administration des établissements.
 
-Elle dirige personnellement la maison de Saint-Denis et a pour auxiliaire l'intendante générale des Loges, qui lui est
-subordonnée, reçoit ses instructions et lui rend compte.
+Elle dirige personnellement la maison de Saint-Denis.
+
+La maison d'éducation des Loges est dirigée, sous l'autorité de la surintendante, par une intendante générale.
 
 La surintendante relève de l'autorité du secrétaire général de la grande chancellerie et directement de celle du grand
 chancelier pour les matières que ce dernier s'est réservées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 21
 
 
 ###### Article R127
@@ -2472,7 +2364,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-### TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.<a id=55></a>
+### TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie.<a id=54></a>
 
 ###### Article R127-1
 
@@ -2558,9 +2450,9 @@ _Créé par_:
   - Décret n°2000-1092 du 9 novembre 2000 - art. 2 () JORF 11 novembre 2000
 
 
-### TITRE VIII : Attribution de la Légion d'honneur aux étrangers<a id=56></a>
+### TITRE VIII : Attribution de la Légion d'honneur aux étrangers<a id=55></a>
 
-#### CHAPITRE I : Conditions d'attribution.<a id=57></a>
+#### CHAPITRE I : Conditions d'attribution.<a id=56></a>
 
 ###### Article R128
 
@@ -2627,7 +2519,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille mili - art. R128 (V)
 
 
-#### CHAPITRE II : Modalités d'attribution.<a id=58></a>
+#### CHAPITRE II : Modalités d'attribution.<a id=57></a>
 
 ###### Article R131
 
@@ -2699,22 +2591,101 @@ _Codifié par_:
 
 ###### Article R135
 
-La Légion d'honneur avec ou sans traitement peut être accordée aux étrangers qui servent ou ont servi dans l'armée française.
+La Légion d'honneur avec ou sans traitement peut être accordée aux étrangers qui servent ou ont servi dans l'armée
+française. 
 
-Les propositions sont faites par le ministre des armées pour les militaires en activité de service. Elles seront alors
-incluses dans les projets de décrets présentés au titre de l'armée active.
+Les propositions sont faites par le  ministre de la défense pour les militaires en activité de service. Elles seront alors
+incluses dans les projets de décrets présentés au titre de l'armée active. 
 
 Elles sont faites par le grand chancelier pour les militaires qui ne sont plus en activité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 2
 
 _Cité par_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R159 (V)
+
+
+#### CHAPITRE III : Retrait<a id=58></a>
+
+###### Article R135-1
+
+Une distinction de la Légion d'honneur accordée à un étranger lui est retirée s'il a été condamné pour crime ou à une peine
+d'emprisonnement sans sursis au moins égale à un an aux termes d'une décision passée en force de chose jugée prononcée par
+une juridiction française.
+
+Le retrait est prononcé par arrêté du grand chancelier après avis du conseil de l'ordre. Le grand maître et le ministre des
+affaires étrangères sont informés préalablement à l'adoption de la décision de retrait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 22
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R101 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R135-4 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R135-5 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R159-1 (V)
+
+
+###### Article R135-2
+
+Peut être retirée à un étranger la distinction de la Légion d'honneur qui lui a été accordée si celui-ci a commis des actes
+ou eu un comportement susceptibles d'être déclarés contraires à l'honneur ou de nature à nuire aux intérêts de la France à
+l'étranger ou aux causes qu'elle soutient dans le monde.
+
+Le retrait est prononcé, sur proposition du grand chancelier, et après avis du ministre des affaires étrangères et du conseil
+de l'ordre, par décret du Président de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 22
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R135-4 (V)
+
+
+###### Article R135-3
+
+La décision prononçant le retrait de la distinction est publiée au Journal officiel si la décision accordant la distinction
+retirée a elle-même été publiée au Journal officiel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 22
+
+
+###### Article R135-4
+
+Le chapitre II du titre V du livre Ier du présent code est applicable pour la mise en œuvre des articles R. 135-1 et R.
+135-2.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 22
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R135-5 (V)
+
+_Cite_:
+
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-1
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-2
 
 
 ## LIVRE II : Médaille militaire<a id=59></a>
@@ -2729,7 +2700,7 @@ _Cité par_:
 
 ###### Article R136
 
-La médaille militaire, destinée à récompenser les militaires et assimilés non officiers, peut être attribuée :
+La médaille militaire, destinée à récompenser les militaires non officiers, peut être attribuée :
 
 1° A ceux qui comptent huit années de services militaires ;
 
@@ -2741,14 +2712,14 @@ La médaille militaire, destinée à récompenser les militaires et assimilés n
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
 _Cité par_:
 
   - Décret n°64-317 du 9 avril 1964 - art. 1 (V)
   - Code de la Légion d'honneur et de la médaille mili - art. R150 (V)
+
+_Modifié par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 3
 
 
 ###### Article R137
@@ -2862,14 +2833,14 @@ _Cite_:
 
 ###### Article R143
 
-La médaille militaire est concédée par décret du Président de la République, sur le rapport du ministre des armées ou, pour
-les agents des services pénitentiaires de la Guyane, sur le rapport du garde des sceaux, ministre de la justice.
+La médaille militaire est concédée par décret du Président de la République, sur le rapport du  ministre de la défense ou,
+pour les agents des services pénitentiaires de la Guyane, sur le rapport du garde des sceaux, ministre de la justice.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 2
 
 
 ###### Article R144
@@ -2942,25 +2913,24 @@ _Codifié par_:
 
 ###### Article R148
 
-La remise de la médaille militaire aux militaires et assimilés, non officiers, a lieu dans les conditions suivantes :
+La remise de la médaille militaire a lieu dans les conditions suivantes :
 
-1° A ceux qui appartiennent à une unité ou formation, par le chef de corps ou de formation devant l'unité ou la formation ;
+1° Pour les militaires, au cours d'une cérémonie militaire, par l'autorité accomplissant la revue des troupes ou par le
+militaire désigné par elle à cet effet ;
 
-2° A ceux qui ne font pas partie d'une unité ou formation, par le commandant d'armes ou son délégué devant une formation de
-la garnison.
+2° Pour les autres récipiendaires, soit selon les modalités définies au 1° lorsqu'ils le souhaitent et que les circonstances
+le permettent, soit par le délégué militaire départemental ou le commandant d'armes de la garnison.
 
-Le chef de corps ou de formation ou le commandant d'armes ou son délégué, selon le cas, adresse à haute voix au titulaire les
-paroles suivantes :
+L'autorité chargée de la remise adresse à haute voix au récipiendaire les paroles suivantes : "Au nom du Président de la
+République, nous vous conférons la médaille militaire".
 
-" Au nom du Président de la République nous vous conférons la médaille militaire. "
-
-Il lui attache la médaille sur la poitrine.
+Elle lui attache la médaille sur la poitrine.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2010-547 du 27 mai 2010 - art. 23
 
 
 ###### Article R149
@@ -3009,26 +2979,22 @@ _Cite_:
 
 ###### Article R151
 
-Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire.
+Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire. 
 
 Pour l'application du premier alinéa de l'article R. 80, l'institution au profit de laquelle les traitements attachés à la
-médaille militaire peuvent être abandonnés est la société nationale Les Médaillés militaires.
+médaille militaire peuvent être abandonnés est la Société nationale d'entraide de la médaille militaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
 _Modifié par_:
 
-  - Décret n°82-611 1982-07-12 art. 2 JORF 18 juillet 1982
+  - Décret n°2010-547 du 27 mai 2010 - art. 24
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille mili - art. R80 (V)
-  - Code de la Légion d'honneur et de la médaille mili - art. R81 (V)
-  - Code de la Légion d'honneur et de la médaille mili - art. R82 (V)
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R80
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R81
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R82
 
 
 ###### Article R152
@@ -3060,28 +3026,7 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R83 (V)
 
 
-#### CHAPITRE III : Electorat.<a id=79></a>
-
-###### Article R154
-
-Les dispositions de l'article R. 85 sont applicables aux titulaires de la médaille militaire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 8
-
-_Cite_:
-
-  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R85
-
-
-#### CHAPITRE IV : Honneurs et prérogatives.<a id=80></a>
+#### CHAPITRE IV : Honneurs et prérogatives.<a id=79></a>
 
 ###### Article R155
 
@@ -3094,27 +3039,7 @@ _Codifié par_:
   - Décret n°62-1472 1962-11-28
 
 
-###### Article R156
-
-Les honneurs à rendre par les militaires isolés aux médaillés militaires porteurs de leur insigne sont prévus à l'article 51
-du décret du 26 juillet 1934.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1934-07-26 art. 51
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 10
-
-
-### TITRE III : Discipline.<a id=81></a>
+### TITRE III : Discipline.<a id=80></a>
 
 ###### Article R157
 
@@ -3131,28 +3056,7 @@ _Cité par_:
   - Code de la Légion d'honneur et de la médaille m... - art. R89 (V)
 
 
-###### Article R158
-
-La formule de la dégradation prévue à l'article R. 111 devient en ce qui concerne les médaillés militaires :
-
-" Vous avez manqué à l'honneur. Je déclare que vous cessez d'être médaillé militaire. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°62-1472 1962-11-28
-
-_Abrogé par_:
-
-  - Décret n°2010-547 du 27 mai 2010 - art. 17
-
-_Cite_:
-
-  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R111
-
-
-### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=82></a>
+### TITRE IV : Concession de la médaille militaire aux étrangers.<a id=81></a>
 
 ###### Article R159
 
@@ -3169,9 +3073,24 @@ _Cite_:
   - Code de la Légion d'honneur et de la médaille m... - art. R135 (V)
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=83></a>
+###### Article R159-1
 
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=84></a>
+Les dispositions prévues aux articles R. 135-1 à R. 135-4 sont applicables aux étrangers titulaires de la médaille militaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2010-547 du 27 mai 2010 - art. 25
+
+_Cite_:
+
+  - Code de la Légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-1
+
+
+## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=82></a>
+
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=83></a>
 
 ###### Article R160
 
@@ -3217,7 +3136,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R204 (V)
 
 
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=85></a>
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=84></a>
 
 ###### Article R162
 
@@ -3286,7 +3205,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R207 (V)
 
 
-### TITRE III : Exécution des arrêtés.<a id=86></a>
+### TITRE III : Exécution des arrêtés.<a id=85></a>
 
 ###### Article R165
 
@@ -3355,7 +3274,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R210 (V)
 
 
-### TITRE IV : Discipline.<a id=87></a>
+### TITRE IV : Discipline.<a id=86></a>
 
 ###### Article R168
 
@@ -3380,7 +3299,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
 
 
-### TITRE V : Dispositions particulières.<a id=88></a>
+### TITRE V : Dispositions particulières.<a id=87></a>
 
 ###### Article R169
 
@@ -3424,7 +3343,7 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R213 (V)
 
 
-## LIVRE IV : Dispositions pénales.<a id=89></a>
+## LIVRE IV : Dispositions pénales.<a id=88></a>
 
 ###### Article R171
 
