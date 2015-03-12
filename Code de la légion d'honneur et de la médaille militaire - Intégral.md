@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2012-12-22
+Version Consolidée au 2015-03-13
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135-4)](#2)
@@ -2917,7 +2917,8 @@ La remise de la médaille militaire a lieu dans les conditions suivantes :
 militaire désigné par elle à cet effet ;
 
 2° Pour les autres récipiendaires, soit selon les modalités définies au 1° lorsqu'ils le souhaitent et que les circonstances
-le permettent, soit par le délégué militaire départemental ou le commandant d'armes de la garnison.
+le permettent, soit par le délégué militaire départemental, le commandant d'armes de la garnison ou un officier général en
+deuxième section ayant reçu délégation expresse à cet effet du délégué militaire départemental territorialement compétent. 
 
 L'autorité chargée de la remise adresse à haute voix au récipiendaire les paroles suivantes : "Au nom du Président de la
 République, nous vous conférons la médaille militaire".
@@ -2928,7 +2929,7 @@ Elle lui attache la médaille sur la poitrine.
 
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 23
+  - Décret n°2015-265 du 11 mars 2015 - art. 1
 
 
 ###### Article R149
