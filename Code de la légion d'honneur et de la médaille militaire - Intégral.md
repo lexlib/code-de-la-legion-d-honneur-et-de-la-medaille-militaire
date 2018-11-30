@@ -1,8 +1,8 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2018-12-01
 ## Contenu: 
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R173)](#1)
-    - [LIVRE I : Légion d'honneur (art. R1 à R135-4)](#2)
+  - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R216)](#1)
+    - [LIVRE I : Légion d'honneur (art. R1 à R135-6)](#2)
       - [TITRE I : Objet et composition de l'ordre (art. R1 à R15)](#3)
         - [CHAPITRE I : Organisation générale. (art. R1 à R7)](#4)
         - [CHAPITRE II : Le grand maître. (art. R8 à R9)](#5)
@@ -40,8 +40,8 @@ Version Consolidée au 2017-01-01
           - [SECTION II : Caractères du traitement. (art. R80 à R82)](#37)
           - [SECTION III : Perte et suspension du droit au traitement. (art. R83 à R84)](#38)
         - [CHAPITRE V : Honneurs et préséances. (art. R86 à R88)](#39)
-      - [TITRE V : Discipline (art. R89 à R110)](#40)
-        - [CHAPITRE I : Peines disciplinaires. (art. R89 à R96)](#41)
+      - [TITRE V : Discipline (art. 97 à R110)](#40)
+        - [CHAPITRE I : Peines disciplinaires. (art. 97 à R96)](#41)
         - [CHAPITRE II : Procédure disciplinaire (art. R98 à R105)](#42)
           - [SECTION I : Procédure préliminaire. (art. R98 à R102)](#43)
           - [SECTION II : Procédure devant le conseil de l'ordre. (art. R103 à R105)](#44)
@@ -55,10 +55,10 @@ Version Consolidée au 2017-01-01
         - [CHAPITRE II : Fonctionnement des établissements. (art. R124)](#52)
         - [CHAPITRE III : Administration des maisons d'éducation et personnel. (art. R125 à R127)](#53)
       - [TITRE VII BIS : Musée national de la Légion d'honneur et des ordres de chevalerie. (art. R127-1 à R127-4)](#54)
-      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135-4)](#55)
+      - [TITRE VIII : Attribution de la Légion d'honneur aux étrangers (art. R128 à R135-6)](#55)
         - [CHAPITRE I : Conditions d'attribution. (art. R128 à R130)](#56)
         - [CHAPITRE II : Modalités d'attribution. (art. R131 à R135)](#57)
-        - [CHAPITRE III : Retrait (art. R135-1 à R135-4)](#58)
+        - [CHAPITRE III : Retrait (art. R135-1 à R135-6)](#58)
     - [LIVRE II : Médaille militaire (art. R136 à R159-1)](#59)
       - [TITRE I : Conditions et modalités de concession de la médaille militaire (art. R136 à R145)](#60)
         - [CHAPITRE I : Conditions de concession (art. R136 à R141)](#61)
@@ -82,13 +82,32 @@ Version Consolidée au 2017-01-01
         - [CHAPITRE IV : Honneurs et prérogatives. (art. R155)](#79)
       - [TITRE III : Discipline. (art. R157)](#80)
       - [TITRE IV : Concession de la médaille militaire aux étrangers. (art. R159 à R159-1)](#81)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R160 à R170)](#82)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R160 à R161)](#83)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R162 à R164)](#84)
-      - [TITRE III : Exécution des arrêtés. (art. R165 à R167)](#85)
-      - [TITRE IV : Discipline. (art. R168)](#86)
-      - [TITRE V : Dispositions particulières. (art. R169 à R170)](#87)
-    - [LIVRE IV : Dispositions pénales. (art. R171 à R173)](#88)
+    - [LIVRE III : Ordre national du Mérite (art. R160 à R202)](#82)
+      - [TITRE I : Objet et composition de l'ordre (art. R160 à R169)](#83)
+      - [TITRE II : Conditions de nomination et de promotion (art. R170 à R188)](#84)
+        - [CHAPITRE I : Nominations et promotions à titre normal (art. R174 à R177)](#85)
+        - [CHAPITRE II : Nominations et promotions à titre exceptionnel (art. R178)](#86)
+        - [CHAPITRE III : Attributions à titre étranger (art. R179 à R188)](#87)
+      - [TITRE III : Modalités de nomination et promotion (art. R189 à R190)](#88)
+      - [TITRE IV : Insignes et brevets (art. R191 à R200)](#89)
+        - [CHAPITRE I : Insignes (art. R191 à R193)](#90)
+        - [CHAPITRE II : Brevets (art. R194 à R195)](#91)
+        - [CHAPITRE III : Remise de l'insigne (art. R196 à R200)](#92)
+      - [TITRE V : Discipline (art. 201)](#93)
+      - [TITRE VI : Administration de l'Ordre (art. R202)](#94)
+    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R203 à R213)](#95)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R203 à R204)](#96)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R205 à R207)](#97)
+      - [TITRE III : Exécution des arrêtés. (art. R208 à R210)](#98)
+      - [TITRE IV : Discipline. (art. R211)](#99)
+      - [TITRE V : Dispositions particulières. (art. R212 à R213)](#100)
+    - [LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères (art.  à R213)](#101)
+      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art.  à R213)](#102)
+      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art.  à R213)](#103)
+      - [TITRE III : Exécution des arrêtés. (art.  à R213)](#104)
+      - [TITRE IV : Discipline. (art.  à R213)](#105)
+      - [TITRE V : Dispositions particulières. (art.  à R213)](#106)
+    - [LIVRE V : Dispositions pénales (art. R214 à R216)](#107)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -184,26 +203,27 @@ _Codifié par_:
 ###### Article R7
 
 La Légion d'honneur comprend limitativement, compte non tenu des nominations et promotions faites hors contingent dans les
-conditions fixées au chapitre III du titre II : 
+conditions fixées au chapitre III du titre II :
 
-75 grand'croix ; 
+75 grand'croix ;
 
-250 grands officiers ; 
+250 grands officiers ;
 
-1 250 commandeurs ; 
+1 250 commandeurs ;
 
-10 000 officiers ; 
+10 000 officiers ;
 
-113 425 chevaliers. 
-
-Les décrets prévus à l'article R. 14 suivant devront comprendre des dispositions permettant d'atteindre progressivement les
-objectifs définis ci-dessus.
+113 425 chevaliers.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 3
 
 _Cité par_:
 
@@ -256,21 +276,19 @@ _Codifié par_:
 
 ###### Article R11
 
-Le conseil de l'ordre de la Légion d'honneur comprend :
+Le conseil de l'ordre de la Légion d'honneur, présidé par le grand chancelier comprend :
 
-- le grand chancelier, président ;
+– quatorze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
 
-- quinze membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+– un membre choisi parmi les officiers ;
 
-- un membre choisi parmi les officiers ;
-
-- un membre choisi parmi les chevaliers.
+– un membre choisi parmi les chevaliers.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2008-249 du 13 mars 2008 - art. 1
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 4
 
 
 ###### Article R12
@@ -293,18 +311,23 @@ _Modifié par_:
 
 ###### Article R13
 
-Le conseil est renouvelé tous les deux ans, à raison alternativement de huit et neuf membres ; les membres sortants peuvent
-être nommés à nouveau.
+Le conseil de l'ordre est renouvelé par moitié tous les deux ans. Les membres sortants peuvent être nommés à nouveau.
+
+Quelle que soit la date de leur nomination, le mandat des membres prend fin à la date du renouvellement de la série au titre
+de laquelle ils ont été nommés.
+
+Le mandat d'un membre du conseil de l'ordre nommé en remplacement d'un membre décédé ou démissionnaire court jusqu'à
+l'expiration du mandat du membre qu'il remplace.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°2008-249 du 13 mars 2008 - art. 2
 
 _Cité par_:
 
   - Décret n°2018-1007 du 21 novembre 2018 - art. 29 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 5
 
 
 #### CHAPITRE V : Admission et avancement dans l'ordre.<a id=8></a>
@@ -359,13 +382,15 @@ _Codifié par_:
 
 ###### Article R17
 
-Nul ne peut accéder à la Légion d'honneur dans un grade supérieur à celui de chevalier.
+L'accès à la Légion d'honneur se fait par le grade de chevalier. L'avancement dans l'ordre est soumis au respect des
+conditions prévues à l'article R. 19. 
 
-Toutefois des nominations directes aux grades d'officier et de commandeur ainsi qu'à la dignité de grand officier peuvent
-intervenir, dans les conditions fixées à l'article R. 32-1, afin de récompenser des carrières hors du commun, tant par leur
-durée que par l'éminence des services rendus. Ces nominations interviennent dans la limite de 2 % de chaque contingent annuel
-correspondant en ce qui concerne les grades d'officier et de commandeur et dans la limite d'une nomination par an en ce qui
-concerne la dignité de grand officier.
+Toutefois des nominations et promotions directes aux grades d'officier et de commandeur ainsi que des nominations et
+élévations directes à la dignité de grand officier peuvent intervenir, dans les conditions fixées à l'article R. 32-1, afin
+de récompenser des carrières hors du commun, tant par leur durée que par l'éminence des services rendus. Ces nominations et
+promotions interviennent dans la limite de 2 % de chaque contingent annuel correspondant en ce qui concerne les grades
+d'officier et de commandeur et dans la limite d'une nomination ou élévation par an en ce qui concerne la dignité de grand
+officier. 
 
 La dignité de grand officier appartient de plein droit aux anciens Premiers ministres qui ont exercé leurs fonctions durant
 deux années au moins.
@@ -374,7 +399,7 @@ deux années au moins.
 
 _Modifié par_:
 
-  - Décret n°2008-1202 du 21 novembre 2008 - art. 2
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 6
 
 _Cité par_:
 
@@ -410,14 +435,14 @@ _Modifié par_:
 
 ###### Article R19
 
-Sans préjudice de l'application du deuxième alinéa de l'article R. 17, ne peuvent être promus aux grades d'officier ou de
+Sous réserve de l'application du deuxième alinéa de l'article R. 17, ne peuvent être promus aux grades d'officier ou de
 commandeur de la Légion d'honneur que les chevaliers et les officiers comptant au minimum respectivement huit et cinq ans
 dans leur grade et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade.
 
-A l'exception du cas prévu au troisième alinéa de l'article R. 17, ne peuvent être élevés à la dignité de grand officier ou
-de grand'croix que les commandeurs et les grands officiers comptant au minimum respectivement trois ans dans leur grade ou
-dignité et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade ou à la première
-dignité. 
+Sous réserve de l'application des deuxième et troisième alinéas de l'article R. 17, ne peuvent être élevés à la dignité de
+grand officier ou de grand'croix que les commandeurs et les grands officiers comptant au minimum respectivement trois ans
+dans leur grade ou dignité et justifiant de titres de la qualité requise acquis postérieurement à l'accession audit grade ou
+à la première dignité.
 
 Un avancement dans la Légion d'honneur doit récompenser des mérites nouveaux et non des mérites déjà récompensés.
 
@@ -426,17 +451,14 @@ Un avancement dans la Légion d'honneur doit récompenser des mérites nouveaux 
 _Cité par_:
 
   - Décret n°64-317 du 9 avril 1964 - art. 1 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R17 (V)
   - Code de la Légion d'honneur et de la médaille m... - art. R43 (V)
   - Code de la Légion d'honneur et de la médaille mili - art. R20 (V)
   - Code des pensions militaires d'invalidité et de... - art. R351-2 (V)
 
 _Modifié par_:
 
-  - Décret n°2008-1202 du 21 novembre 2008 - art. 3
-
-_Cite_:
-
-  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R17
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 7
 
 
 ###### Article R20
@@ -517,9 +539,8 @@ _Modifié par_:
 
 ###### Article R24
 
-Pour un étranger admis à la nationalité française qui a sollicité sa naturalisation alors qu'il n'était plus assujetti aux
-obligations du service militaire actif, le décompte des années de services exigées pour son admission ou son avancement dans
-la Légion d'honneur a comme point de départ la date de sa naturalisation.
+Pour un étranger qui a acquis la nationalité française, le décompte des années de service exigées pour son admission ou son
+avancement dans la Légion d'honneur a comme point de départ sa date d'acquisition de la nationalité française.
 
 Il peut être néanmoins dérogé aux dispositions ci-dessus par décision du grand maître, après avis du conseil de l'ordre, en
 faveur des Français visés à l'alinéa précédent qui se sont signalés par des mérites particulièrement éminents.
@@ -528,11 +549,11 @@ faveur des Français visés à l'alinéa précédent qui se sont signalés par d
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
 _Modifié par_:
 
-  - Décret n°70-580 1970-07-06 art. 1 JORF 8 juillet 1970
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 8
 
 
 ##### SECTION II : Propositions à titre exceptionnel.<a id=14></a>
@@ -600,7 +621,11 @@ _Cité par_:
 
 ###### Article R28
 
-Les ministres adressent leurs propositions au grand chancelier trois fois par an : les 1er janvier, 1er avril et 1er octobre.
+Les ministres adressent leurs propositions au grand chancelier deux fois par an pour les promotions civiles du 1er janvier et
+du 14 juillet.
+
+Le ministre de la défense adresse ses propositions au grand chancelier deux fois par an, pour les promotions militaires du
+1er juillet et du 1er novembre.
 
 Le Premier ministre, auquel il est rendu compte de ces propositions par chaque ministre, adresse directement au grand
 chancelier les avis et observations qu'elles appellent éventuellement de sa part.
@@ -609,7 +634,11 @@ chancelier les avis et observations qu'elles appellent éventuellement de sa par
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 9
 
 _Cité par_:
 
@@ -625,14 +654,13 @@ grade de chevalier.
 La notice fournie doit être conforme au modèle annexé au présent code et être accompagnée, le cas échéant, de l'avis des
 différents ministres dont a relevé le candidat ou du ministre des affaires étrangères si l'intéressé a résidé à l'étranger.
 
-Toute proposition concernant une personne n'appartenant pas à la fonction publique ou à l'armée active est, au surplus,
-accompagnée d'un bulletin n° 2 du casier judiciaire datant de moins de deux mois.
+Toute proposition est en outre accompagnée d'un bulletin n° 2 du casier judiciaire datant de moins de deux mois.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 5
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 10
 
 _Cité par_:
 
@@ -1192,21 +1220,28 @@ _Cité par_:
 ###### Article R53
 
 Par dérogation aux articles R. 51 et R. 52, le Premier ministre et les ministres peuvent procéder aux réceptions dans tous
-les grades et dignités de l'ordre par délégation du Président de la République.
+les grades et dignités de l'ordre par délégation du Président de la République. Cette dérogation est valable pendant les six
+mois qui suivent la fin de leurs fonctions ministérielles.
+
+Les présidents du Sénat, de l'Assemblée nationale, du Conseil constitutionnel et du Conseil économique, social et
+environnemental sont également autorisés à procéder aux réceptions dans tous les grades et dignités de l'ordre par délégation
+du Président de la République pendant la durée de leur présidence.
 
 Les ambassadeurs en poste dans un pays étranger peuvent également et dans les mêmes conditions procéder aux réceptions dans
 les grades de l'ordre des Français résidant dans ce pays.
+
+Les représentants de l'Etat dans les départements et les collectivités peuvent procéder aux réceptions dans le grade de
+chevalier des Français résidant dans leur département ou collectivité d'affectation.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la Légion d'honneur et de la médaille mili - art. R51 (V)
-  - Code de la Légion d'honneur et de la médaille mili - art. R52 (V)
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 11
 
 
 #### CHAPITRE III : Cérémonial<a id=28></a>
@@ -1618,21 +1653,22 @@ _Codifié par_:
 ###### Article R80
 
 Les titulaires du traitement de la Légion d'honneur peuvent en faire abandon, à titre définitif ou à titre temporaire, au
-profit de la Société d'entraide des membres de la Légion d'honneur, qui est autorisée àl'accepter.
+profit de l'association chargée des œuvres sociales de la Légion d'honneur ou de la Société des membres de la Légion
+d'honneur, qui sont autorisées à l'accepter. 
 
-Ainsi qu'il est dit à l'article L. 527 du code des pensions militaires d'invalidité et des victimes de la guerre, les
-titulaires du traitement de la Légion d'honneur peuvent en faire abandon à titre définitif ou à titre temporaire au profit de
-l'Office national des anciens combattants et victimes de guerre.
+Conformément aux dispositions de l'article L. 612-17 du code des pensions militaires d'invalidité et des victimes de la
+guerre, les titulaires du traitement de la Légion d'honneur peuvent en faire abandon à titre définitif ou à titre temporaire
+au profit de l'Office national des anciens combattants et victimes de guerre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
 _Modifié par_:
 
-  - Décret n°82-611 1982-07-12 art. 1 JORF 18 juillet 1982
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 12
 
 _Cité par_:
 
@@ -1640,7 +1676,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des pensions militaires d'invalidité et des v - art. L527 (V)
+  - Code des pensions militaires d'invalidité et des victimes de guerre. - art. L612-17
 
 
 ###### Article R81
@@ -1767,6 +1803,17 @@ _Modifié par_:
 ### TITRE V : Discipline<a id=40></a>
 
 #### CHAPITRE I : Peines disciplinaires.<a id=41></a>
+
+###### Article 97
+
+Aucune action disciplinaire ne peut être poursuivie ou engagée contre une personne décédée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 13
+
 
 ###### Article R89
 
@@ -2206,7 +2253,7 @@ _Codifié par_:
 ###### Article R118
 
 Un secrétaire général nommé par le Président de la République dirige, sous la haute autorité du grand chancelier,
-l'administration centrale de la grande chancellerie.
+l'administration de la grande chancellerie.
 
 Il a délégation générale et permanente à l'effet de signer, au nom du grand chancelier de la Légion d'honneur, tous actes,
 arrêtés et décisions, à l'exception des déclarations formulées au nom du conseil de l'ordre.
@@ -2216,15 +2263,15 @@ de l'ordre.
 
 Le grand chancelier peut, par arrêté, déléguer sa signature à des chefs de service et des fonctionnaires de catégorie A de la
 grande chancellerie nommément désignés, à l'effet de signer, en son nom et en cas d'absence ou d'empêchement du secrétaire
-général, les actes et décisions relatifs à l'engagement, à la liquidation et à l'ordonnancement des dépenses, les titres de
-perception ainsi que tous actes liés à l'exécution du budget et autres pièces comptables concernant l'administration centrale
-de la grande chancellerie de la Légion d'honneur et des maisons d'éducation.
+général, tous actes et décisions relevant de l'administration courante de l'institution et de l'organisation des services
+dans la limite, selon les cas, d'un montant qu'il détermine et relatifs à la gestion des décorations, du patrimoine, du
+budget et des ressources humaines.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
 _Cité par_:
 
@@ -2233,33 +2280,51 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2005-1406 du 15 novembre 2005 - art. 4 () JORF 16 novembre 2005
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 14
 
 
 #### CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur.<a id=48></a>
 
 ###### Article R119
 
-Le conseil de l'ordre de la Légion d'honneur veille à l'observation des statuts et règlements de l'ordre et des
-établissements qui en dépendent.
+I. – Le conseil de l'ordre de la Légion d'honneur veille à l'observation des statuts et règlements de l'ordre et des
+établissements qui en dépendent. 
 
 Il vérifie si les nominations et promotions dans la Légion d'honneur sont faites en conformité des lois, décrets et
-règlements en vigueur ainsi que des principes fondamentaux de l'ordre.
+règlements en vigueur ainsi que des principes fondamentaux de l'ordre. 
 
-Le conseil de l'ordre, réuni par le grand chancelier, donne son avis :
+Le conseil de l'ordre, réuni par le grand chancelier, donne son avis : 
 
-1° Sur les sanctions disciplinaires à prendre à l'encontre de membres de l'ordre et sur le retrait des distinctions de la
-Légion d'honneur accordées à des étrangers. 
+1° Sur les sanctions disciplinaires à prendre à l'encontre de membres de l'ordre et sous réserve des dispositions de
+l'article R. 135-5 sur le retrait des distinctions de la Légion d'honneur accordées à des étrangers. 
 
-2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter.
+2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter. 
 
-Il approuve le budget de l'ordre et est tenu informé de son exécution par le grand chancelier.
+Il approuve le budget de l'ordre et est tenu informé de son exécution par le grand chancelier. 
+
+II. – Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas
+atteint, le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit
+le nombre de membres présents. 
+
+En cas de nécessité, le conseil, réuni par le grand chancelier, peut donner son avis sur toute question, à l'exception des
+mesures disciplinaires et de retrait mentionnées au cinquième alinéa du I, selon l'une des modalités suivantes : 
+
+1° Les membres peuvent être autorisés à donner mandat à un autre membre. Nul ne peut détenir plus d'un mandat. Dans ce cas,
+pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil. 
+
+2° La délibération peut être organisée selon les modalités prévues par le décret n° 2014-1627 du 26 décembre 2014 relatif aux
+modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Dans ce cas, les
+membres ne sont pas autorisés à donner mandat à un autre membre.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°2014-1627 du 26 décembre 2014
+
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 18
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 15
 
 
 #### CHAPITRE III : Régime financier.<a id=49></a>
@@ -2297,23 +2362,21 @@ _Modifié par_:
 ###### Article R121
 
 Les maisons d'éducation de la Légion d'honneur de Saint-Denis et des Loges, placées sous l'autorité du grand chancelier, sont
-instituées pour assurer l'éducation des filles, petites-filles et arrière-petites-filles de membres de l'ordre de la Légion
-d'honneur.
+instituées pour assurer l'éducation des filles, petites-filles et arrière-petites-filles de décorés de la Légion d'honneur,
+de la Médaille militaire et de l'ordre national du Mérite.
 
-Peuvent être accueillies, dans les maisons d'éducation de la Légion d'honneur, les filles, petites-filles et arrière-petites-
-filles des médaillés militaires et des membres de l'ordre national du Mérite ainsi que les filles et petites-filles de
-légionnaires étrangers. Ces admissions sont décidées par le grand chancelier après avis du conseil de l'ordre et, pour les
-légionnaires étrangers, après consultation du grand maître.
+Les admissions sont décidées par le grand chancelier, après consultation du grand maître pour les descendantes des étrangers
+titulaires de l'une des trois décorations susmentionnées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
 _Modifié par_:
 
-  - Décret n°2005-301 du 31 mars 2005 - art. 1 () JORF 1er avril 2005
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 16
 
 _Cité par_:
 
@@ -2335,14 +2398,18 @@ _Codifié par_:
 
 ###### Article R123
 
-Les maisons d'éducation de la Légion d'honneur constituent des internats où sont professés les enseignements du second degré,
-et éventuellement l'enseignement des classes préparatoires aux grandes écoles.
+Les maisons d'éducation mentionnées à l'article R. 121 constituent des internats où sont professés les enseignements du
+second degré, et du supérieur.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 19
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 17
+
+_Cite_:
+
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R121
 
 
 #### CHAPITRE II : Fonctionnement des établissements.<a id=52></a>
@@ -2578,26 +2645,31 @@ _Cite_:
 
 Toutes les propositions pour la Légion d'honneur concernant des étrangers sont transmises par le ministre compétent au
 ministre des affaires étrangères, qui a charge de les présenter au conseil de l'ordre dans les conditions prévues aux
-articles R. 28 à R. 32. 
+articles R. 28 à R. 32.
 
-Toutefois, les attributions de dignités et de grades aux chefs d'Etat et à leurs collaborateurs ainsi qu'aux membres du corps
-diplomatique sont laissées au soin du grand maître, le grand chancelier étant cependant préalablement informé. Les
-dispositions de l'alinéa 1 de l'article R. 128 ne s'appliquent pas à ces dernières attributions.
+Toutefois, les attributions de dignités et de grades aux chefs d'Etat et de Gouvernement et aux membres de Gouvernement
+étrangers ainsi qu'à leurs collaborateurs et aux membres du corps diplomatique sont laissées au soin du grand maître, le
+grand chancelier étant cependant préalablement informé. Les dispositions de l'alinéa 1 de l'article R. 128 ne s'appliquent
+pas à ces dernières attributions.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R128 (V)
-  - Code de la Légion d'honneur et de la médaille m... - art. R28 (V)
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 18
 
 _Cité par_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R135-5 (V)
+
+_Cite_:
+
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R128
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R28
 
 
 ###### Article R132
@@ -2739,6 +2811,39 @@ _Cite_:
 
   - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-1
   - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-2
+
+
+###### Article R135-5
+
+Le grand maître peut décider de retirer leur distinction aux chefs d'Etat et de Gouvernement et aux anciens chefs d'Etat et
+de Gouvernement, aux membres et anciens membres de Gouvernement, ainsi qu'à leurs collaborateurs et aux membres du corps
+diplomatique décorés en application des dispositions de l'article R. 131. 
+
+Les articles R. 135-1 à R. 135-4 ne sont pas applicables. Le grand chancelier est préalablement informé du retrait de la
+distinction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 19
+
+_Cite_:
+
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R131
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-1
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-4
+
+
+###### Article R135-6
+
+Aucune action en retrait ne peut être poursuivie ou engagée contre une personne décédée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 19
 
 
 ## LIVRE II : Médaille militaire<a id=59></a>
@@ -2885,14 +2990,13 @@ _Cite_:
 
 ###### Article R143
 
-La médaille militaire est concédée par décret du Président de la République, sur le rapport du  ministre de la défense ou,
-pour les agents des services pénitentiaires de la Guyane, sur le rapport du garde des sceaux, ministre de la justice.
+La médaille militaire est concédée par décret du Président de la République, sur le rapport du ministre de la défense.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 2
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 20
 
 
 ###### Article R144
@@ -3032,16 +3136,17 @@ _Cite_:
 
 ###### Article R151
 
-Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire. 
+Les dispositions prévues aux articles R. 80, R. 81 et R. 82 sont applicables à la médaille militaire.
 
-Pour l'application du premier alinéa de l'article R. 80, l'institution au profit de laquelle les traitements attachés à la
-médaille militaire peuvent être abandonnés est la Société nationale d'entraide de la médaille militaire.
+Pour l'application du premier alinéa de l'article R. 80, les traitements attachés à la Médaille militaire peuvent être
+abandonnés au profit de l'association chargée des œuvres sociales de la Légion d'honneur ou de la Société nationale
+d'entraide de la Médaille militaire.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décret n°2010-547 du 27 mai 2010 - art. 24
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 21
 
 _Cite_:
 
@@ -3141,24 +3246,24 @@ _Cite_:
   - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R135-1
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=82></a>
+## LIVRE III : Ordre national du Mérite<a id=82></a>
 
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=83></a>
+### TITRE I : Objet et composition de l'ordre<a id=83></a>
 
 ###### Article R160
 
-Toute décoration étrangère, quelle qu'en soit la dénomination ou la forme, qui n'a pas été conférée par une puissance
-souveraine est déclarée illégalement et abusivement obtenue.
+L'ordre national du Mérite est régi par les dispositions du présent livre.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
@@ -3167,18 +3272,19 @@ _Nouveaux textes_:
 
 ###### Article R161
 
-Tout Français qui a obtenu une décoration étrangère ne peut l'accepter et la porter que sur autorisation délivrée par arrêté
-du grand chancelier de la Légion d'honneur.
+L'ordre national du Mérite est destiné à récompenser les mérites distingués acquis soit dans une fonction publique, civile ou
+militaire, soit dans l'exercice d'une activité privée.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Cité par_:
 
@@ -3189,26 +3295,20 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R204 (V)
 
 
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=84></a>
-
 ###### Article R162
 
-Toute demande d'autorisation d'accepter et de porter les insignes d'un ordre étranger ou d'une décoration étrangère doit être
-adressée hiérarchiquement au grand chancelier, par l'intermédiaire du ministre dont relève le demandeur à raison de ses
-fonctions.
-
-Si le demandeur n'exerce aucune fonction publique, il adresse sa requête par l'intermédiaire du préfet de sa résidence ou par
-l'intermédiaire du consul de France, s'il vit à l'étranger.
+L'ordre du Mérite constitue un ordre national ayant en propre son organisation, sa discipline et sa hiérarchie.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
@@ -3217,19 +3317,21 @@ _Nouveaux textes_:
 
 ###### Article R163
 
-Les ministres et les préfets transmettent au grand chancelier les demandes d'autorisation qui leur sont adressées en donnant
-leur avis sur la suite dont elles leur paraissent susceptibles, après enquête portant sur la moralité et la qualité du
-demandeur, sur les fonctions qu'il remplit, les services qui lui ont valu la distinction dont il désire porter les insignes.
+Le Président de la République est grand maître de l'ordre ; il statue en dernier ressort sur toutes questions concernant
+l'ordre. Il prend la présidence du conseil de l'ordre quand il le juge utile.
+
+La dignité de grand'croix lui appartient de plein droit.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
@@ -3238,41 +3340,48 @@ _Nouveaux textes_:
 
 ###### Article R164
 
-Toute demande d'autorisation formée par un Français qui n'est pas membre de la Légion d'honneur doit être accompagnée d'une
-fiche individuelle d'état civil.
+Le grand chancelier de la Légion d'honneur est le chancelier de l'ordre national du Mérite.
 
-L'autorité qui transmet la demande doit y joindre l'extrait n° 2 du casier judiciaire de l'intéressé.
+La dignité de grand'croix lui appartient de plein droit.
+
+La dignité de grand'croix appartient également de plein droit au Premier ministre après six mois de fonction.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R207 (V)
 
 
-### TITRE III : Exécution des arrêtés.<a id=85></a>
-
 ###### Article R165
 
-Une ampliation, en forme de brevet, de l'arrêté portant autorisation est délivrée à l'intéressé.
+Le conseil de l'ordre, présidé par le chancelier, comprend :
+
+1° Dix membres choisis parmi les dignitaires et commandeurs de l'ordre ;
+
+2° Un membre choisi parmi les officiers ;
+
+3° Un membre choisi parmi les chevaliers.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
@@ -3281,22 +3390,24 @@ _Nouveaux textes_:
 
 ###### Article R166
 
-Il est perçu par la grande chancellerie de la Légion d'honneur, pour l'expédition des brevets, des droits de chancellerie
-dont le montant est fixé par décret.
+Les membres du conseil de l'ordre sont choisis par le grand maître, sur proposition du chancelier.
+
+Ils sont nommés par décret du Président de la République.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
 _Cité par_:
 
   - Décret n°2016-1254 du 27 septembre 2016 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Nouveaux textes_:
 
@@ -3305,18 +3416,24 @@ _Nouveaux textes_:
 
 ###### Article R167
 
-La remise des droits de chancellerie pourra être accordée par le grand chancelier de la Légion d'honneur aux personnes qui
-justifieraient de l'impossibilité de les acquitter.
+Le conseil de l'ordre est renouvelé par moitié tous les deux ans. Les membres sortants peuvent être nommés à nouveau.
+
+Quelle que soit la date de leur nomination, le mandat des membres prend fin à la date du renouvellement de la série au titre
+de laquelle ils ont été nommés.
+
+Le mandat d'un membre du conseil de l'ordre nommé en remplacement d'un membre décédé ou démissionnaire court jusqu'à
+l'expiration du mandat du membre qu'il remplace.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°62-1472 du 28 novembre 1962
 
-**Liens**:
+_Modifié par_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 _Cité par_:
 
@@ -3327,9 +3444,761 @@ _Nouveaux textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R210 (V)
 
 
-### TITRE IV : Discipline.<a id=86></a>
-
 ###### Article R168
+
+I. – Le conseil de l'ordre délibère sur les questions concernant les statuts de l'ordre, les nominations, les promotions et
+la discipline des membres de l'ordre ainsi que, sous réserve des dispositions de l'article R. 187, sur le retrait des
+distinctions de l'ordre national du Mérite à des étrangers.
+
+II. – Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas
+atteint, le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit
+le nombre de membres présents.
+
+En cas de nécessité, le conseil, réuni par le chancelier, peut donner son avis sur toute question, à l'exception des mesures
+disciplinaires et de retrait, selon l'une des modalités suivantes :
+
+1° Les membres peuvent être autorisés à donner mandat à un autre membre. Nul ne peut détenir plus d'un mandat. Dans ce cas,
+pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil ;
+
+2° La délibération peut être organisée selon les modalités prévues par le  décret n° 2014-1627 du 26 décembre 2014 relatif
+aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Dans ce cas,
+les membres ne sont pas autorisés à donner mandat à un autre membre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Cite_:
+
+  - Décret n°2014-1627 du 26 décembre 2014
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
+
+
+###### Article R169
+
+L'ordre national du Mérite comprend des chevaliers, des officiers, des commandeurs, des grands officiers et des grand'croix.
+
+Les grands officiers et les grand'croix sont dignitaires de l'ordre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R212 (V)
+
+
+### TITRE II : Conditions de nomination et de promotion<a id=84></a>
+
+###### Article R170
+
+Le Président de la République, grand maître de l'ordre fixe par décret, pour une période de trois ans, le nombre des
+propositions de nomination ou de promotion que les ministres et le chancelier de l'ordre sont autorisés à lui présenter.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R213 (V)
+
+
+###### Article R171
+
+Les nominations et promotions sont faites par décret du Président de la République.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R214 (V)
+
+
+###### Article R172
+
+Nul ne peut être reçu dans l'ordre s'il n'est Français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R215 (V)
+
+
+###### Article R173
+
+L'accès à l'ordre national du Mérite se fait par le grade de chevalier. L'avancement dans l'ordre est soumis au respect des
+conditions prévues aux articles R. 174 et R. 175.
+
+Toutefois, les membres de la Légion d'honneur peuvent être nommés, promus ou élevés à la dignité ou au grade immédiatement
+supérieur dans l'ordre national du Mérite sous réserve qu'ils justifient de services nouveaux de l'importance et de la
+qualité requises, rendus postérieurement à leur nomination ou promotion dans le premier ordre national.
+
+Des nominations directes aux grades d'officier et de commandeur peuvent intervenir par décision du grand maître, à raison de
+la particulière distinction des services rendus. Ces nominations interviennent dans la limite de 5 % du contingent annuel en
+ce qui concerne le grade d'officier et dans la limite de 2 % du contingent annuel en ce qui concerne le grade de commandeur.
+
+Des nominations directes à la dignité de grand officier peuvent également intervenir dans les mêmes conditions, dans la
+limite d'une nomination par an.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°62-1472 du 28 novembre 1962
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+_Nouveaux textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R216 (V)
+
+_Cite_:
+
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R161
+
+
+#### CHAPITRE I : Nominations et promotions à titre normal<a id=85></a>
+
+###### Article R174
+
+Pour être nommé chevalier, il faut justifier de dix ans au moins de services ou d'activités assortis de mérites distingués.
+
+Pour être promu officier, il faut justifier de cinq ans au moins dans le grade de chevalier du Mérite.
+
+Pour être promu commandeur, il faut justifier de trois ans au moins dans le grade d'officier du Mérite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R175
+
+Ne peuvent être élevés à la dignité de grand officier ou de grand'croix que les commandeurs ou les grands officiers comptant
+au minimum respectivement trois ans dans leur grade ou dignité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R176
+
+Un avancement dans l'ordre national du Mérite doit récompenser des mérites nouveaux et non des mérites déjà récompensés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R177
+
+Pendant la durée de leur mandat, les membres des assemblées parlementaires ne peuvent être nommés ou promus dans l'ordre
+national du Mérite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+#### CHAPITRE II : Nominations et promotions à titre exceptionnel<a id=86></a>
+
+###### Article R178
+
+Les services exceptionnels nettement caractérisés peuvent dispenser des conditions prévues au chapitre Ier pour l'admission
+et l'avancement dans l'ordre, sous la réserve expresse de ne franchir aucun grade, sauf s'il est fait application des
+dispositions de l'article R. 173.
+
+Il appartient au conseil de l'ordre de formuler son appréciation sur le caractère exceptionnel des titres invoqués.
+
+Le décret portant nomination ou promotion à titre exceptionnel précise les titres récompensés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+#### CHAPITRE III : Attributions à titre étranger<a id=87></a>
+
+###### Article R179
+
+Les étrangers qui se sont signalés par leurs mérites à l'égard de la France peuvent recevoir une distinction dans l'ordre
+national du Mérite sur proposition du ministre des affaires étrangères et dans la limite de contingents particuliers fixés
+par décret pour une période de trois ans.
+
+Ils ne sont pas membres de l'ordre et les dispositions de l'article R. 194 ne leur sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R180
+
+Les attributions de dignités et de grades aux chefs d'Etat et de Gouvernement et aux membres de Gouvernement étrangers ainsi
+qu'à leurs collaborateurs et aux membres du corps diplomatique sont laissées aux soins du grand maître, le chancelier étant
+cependant préalablement informé. Les dispositions du premier alinéa de l'article R. 179 ne leur sont pas applicables.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R181
+
+Les étrangers bénéficiaires des dispositions de l'article R. 179 et résidant habituellement en France ou y exerçant une
+activité professionnelle sont soumis aux conditions imposées aux Français par les articles R. 174, R. 175, R. 176 et R. 178.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R182
+
+Les étrangers bénéficiaires des dispositions de l'article R. 179 résidant hors de France ne sont pas astreints aux règles de
+la hiérarchie de l'ordre national du Mérite, les distinctions leur étant attribuées en considération de leur personnalité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R183
+
+Une distinction de l'ordre national du Mérite accordée à un étranger lui est retirée s'il a été condamné pour crime ou à une
+peine d'emprisonnement sans sursis au moins égale à un an aux termes d'une décision passée en force de chose jugée prononcée
+par une juridiction française.
+
+Le retrait de la distinction est prononcé par arrêté du chancelier de l'ordre national du Mérite après avis du conseil de
+l'ordre. Le grand maître et le ministre des affaires étrangères sont informés préalablement à l'adoption de la décision de
+retrait.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R184
+
+Peut être retirée à un étranger la distinction de l'ordre national du Mérite qui lui a été accordée si celui-ci a commis des
+actes ou eu un comportement susceptibles d'être déclarés contraires à l'honneur ou de nature à nuire aux intérêts de la
+France à l'étranger ou aux causes qu'elle soutient dans le monde.
+
+Le retrait est prononcé, sur proposition du chancelier de l'ordre national du Mérite, et après avis du ministre des affaires
+étrangères et du conseil de l'ordre, par décret du Président de la République.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R185
+
+La décision prononçant le retrait de la distinction est publiée au Journal officiel si la décision accordant la distinction
+retirée a elle-même été publiée au Journal officiel.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R186
+
+Pour la mise en œuvre des articles R. 183 et R. 184, il est fait application de la procédure prévue par le chapitre II du
+titre V du livre Ier du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R187
+
+Le grand maître peut décider de retirer leur distinction aux chefs d'Etat et de Gouvernement et aux anciens chefs d'Etat et
+de Gouvernement, aux membres et anciens membres de Gouvernement, ainsi qu'à leurs collaborateurs et aux membres du corps
+diplomatique décorés en application des dispositions de l'article R. 180.
+
+Les articles R. 183 à R. 186 ne sont pas applicables. Le chancelier est préalablement informé du retrait de la distinction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R188
+
+Aucune action en retrait ne peut être poursuivie ou engagée contre une personne décédée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+### TITRE III : Modalités de nomination et promotion<a id=88></a>
+
+###### Article R189
+
+Les ministres adressent leurs propositions au chancelier deux fois par an pour les promotions civiles du 15 mai et du 15
+novembre.
+
+Le ministre de la défense adresse ses propositions au chancelier deux fois par an, pour les promotions militaires du 1er mai
+et du 1er novembre.
+
+Sous réserve de l'application des dispositions du présent livre, les nominations et promotions dans l'ordre sont régies par
+les règles applicables à l'ordre de la Légion d'honneur. Toutefois, seuls les décrets portant élévation à la dignité de grand
+officier ou de grand'croix du Mérite sont pris en conseil des ministres.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R190
+
+L'insigne de l'ordre national du Mérite est porté après l'insigne de la Légion d'honneur, la croix de la Libération et la
+Médaille militaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+### TITRE IV : Insignes et brevets<a id=89></a>
+
+#### CHAPITRE I : Insignes<a id=90></a>
+
+###### Article R191
+
+La décoration du Mérite est une étoile à six branches doubles émaillées de bleu, surmontée d'une bélière formée de feuilles
+de chênes entrecroisées.
+
+Le centre de l'étoile est entouré de feuilles de laurier entrecroisées ; l'avers présente l'effigie de la République avec cet
+exergue “ République française ” et le revers deux drapeaux tricolores avec l'inscription “ Ordre national du Mérite ” et la
+date “ 3 décembre 1963 ”.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R192
+
+L'insigne des chevaliers, d'un diamètre de 40 mm, est en argent et se porte sur le côté gauche de la poitrine attaché par un
+ruban moiré bleu de France d'une largeur de 37 mm.
+
+Les officiers portent à la même place un insigne de même diamètre en vermeil attaché par un ruban semblable à celui des
+chevaliers, mais comportant une rosette.
+
+Les commandeurs portent en sautoir l'insigne en vermeil d'un diamètre de 60 mm attaché par un ruban moiré bleu de France de
+40 mm.
+
+Les grands officiers portent sur le côté droit de la poitrine une plaque ou étoile en argent, d'un diamètre de 90 mm, à douze
+rayons doubles boutonnés et douze rayons intercalaires émaillés de bleu, portant en son centre un médaillon représentant
+l'effigie de la République avec, sur fond d'émail bleu, la légende “ République française ” “ Ordre national du Mérite ”,
+entouré d'une couronne de feuilles de laurier torsadées. Ils portent en outre la croix d'officier.
+
+Les grand'croix portent en écharpe un ruban moiré bleu de France de 10 cm de large passant sur l'épaule droite et au bas
+duquel est attachée une croix semblable à celle des commandeurs mais de 70 mm de diamètre. De plus, ils portent sur le côté
+gauche de la poitrine une plaque semblable à celle des grands officiers mais en vermeil. Lorsqu'ils sont également
+grand'croix de la Légion d'honneur, les grand'croix du Mérite ne portent que la plaque ci-dessus décrite.
+
+Les dignitaires nommés ou promus antérieurement au 1er juillet 1980 peuvent continuer à porter la plaque définie lors de la
+création de l'ordre.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R193
+
+La remise et le port des insignes de l'ordre national du Mérite sont soumis aux règles fixées pour ceux de la Légion
+d'honneur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+#### CHAPITRE II : Brevets<a id=91></a>
+
+###### Article R194
+
+Des brevets revêtus de la signature du Président de la République et contresignés du chancelier sont délivrés à tous les
+membres de l'ordre ainsi qu'aux étrangers qui ont reçu des distinctions dans l'ordre national du Mérite.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R195
+
+Des droits de chancellerie sont perçus pour l'établissement des brevets ; leur montant est fixé par décision du chancelier.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+#### CHAPITRE III : Remise de l'insigne<a id=92></a>
+
+###### Article R196
+
+Nul n'est membre de l'ordre national du Mérite tant qu'il n'a pas été procédé à la remise de l'insigne dans les formes
+prévues ci-après.
+
+Nul ne peut se prévaloir d'un grade ou d'une dignité dans l'ordre national du Mérite avant qu'il n'ait été procédé à la
+remise de l'insigne de son grade ou de sa dignité.
+
+Nul ne peut porter, avant cette remise, ni les insignes, ni les rubans ou rosettes du grade ou de la dignité auquel il a été
+nommé, promu ou élevé.
+
+Les décrets portant nomination ou promotion dans l'ordre précisent qu'ils ne prennent effet qu'à compter de la remise de
+l'insigne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R197
+
+Le chancelier désigne, pour procéder à la remise de l'insigne, un dignitaire ayant au moins le même rang ou un membre de
+l'ordre d'un grade au moins égal à celui du récipiendaire.
+
+Par dérogation aux dispositions ci-dessus, le Premier ministre et les ministres peuvent procéder aux remises d'insignes pour
+tous les grades et dignités de l'ordre. Cette dérogation est valable pendant les six mois qui suivent la fin de leurs
+fonctions ministérielles.
+
+Les présidents du Sénat, de l'Assemblée nationale, du Conseil constitutionnel et du Conseil économique, social et
+environnemental sont également autorisés à procéder aux réceptions de tous les grades et dignités de l'ordre pendant la durée
+de leur présidence.
+
+Les ambassadeurs en poste dans un pays étranger peuvent également procéder aux remises d'insignes pour tous les grades et
+dignités de l'ordre aux Français résidant dans ce pays.
+
+Les représentants de l'Etat dans les départements et les collectivités peuvent procéder aux remises d'insignes pour le grade
+de chevalier aux Français résidant dans leur département ou collectivité d'affectation.
+
+Il est établi un procès-verbal portant signature du récipiendaire et de la personne ayant procédé à la remise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R198
+
+La remise de l'insigne prévue à l'article R. 197 peut être faite par un membre de la Légion d'honneur d'une dignité ou d'un
+grade au moins égal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R199
+
+La remise de l'insigne est différée s'il se révèle, après publication du décret de nomination ou de promotion, que les
+qualifications du bénéficiaire doivent, dans l'intérêt de l'ordre, être à nouveau vérifiées.
+
+S'il se confirme après enquête que l'intéressé ne possède pas les qualifications requises, il peut être décidé par décret
+qu'il ne sera pas procédé à la remise de l'insigne.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+###### Article R200
+
+Les membres de l'ordre le demeurent à vie sous réserve des dispositions de l'article R. 201.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+### TITRE V : Discipline<a id=93></a>
+
+###### Article 201
+
+Sous réserve de l'application des dispositions de l'article R. 168, les sanctions et la procédure disciplinaires prévues pour
+la Légion d'honneur sont applicables aux membres de l'ordre national du Mérite.
+
+
+
+### TITRE VI : Administration de l'Ordre<a id=94></a>
+
+###### Article R202
+
+L'administration de l'ordre national du Mérite est confiée à la grande chancellerie de l'ordre national de la Légion
+d'honneur, qui l'exerce selon les règles applicables à la Légion d'honneur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+
+
+## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=95></a>
+
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=96></a>
+
+###### Article R203
+
+Toute décoration étrangère, quelle qu'en soit la dénomination ou la forme, qui n'a pas été conférée par une puissance
+souveraine est déclarée illégalement et abusivement obtenue.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R160 (T)
+
+
+###### Article R204
+
+Tout Français qui a obtenu une décoration étrangère ne peut l'accepter et la porter que sur autorisation délivrée par arrêté
+du grand chancelier de la Légion d'honneur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R161 (T)
+
+_Cité par_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R216 (V)
+
+
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=97></a>
+
+###### Article R205
+
+Toute demande d'autorisation d'accepter et de porter les insignes d'un ordre étranger ou d'une décoration étrangère doit être
+adressée hiérarchiquement au grand chancelier, par l'intermédiaire du ministre dont relève le demandeur à raison de ses
+fonctions.
+
+Si le demandeur n'exerce aucune fonction publique, il adresse sa requête par l'intermédiaire du préfet de sa résidence ou par
+l'intermédiaire du consul de France, s'il vit à l'étranger.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R162 (T)
+
+
+###### Article R206
+
+Les ministres et les préfets transmettent au grand chancelier les demandes d'autorisation qui leur sont adressées en donnant
+leur avis sur la suite dont elles leur paraissent susceptibles, après enquête portant sur la moralité et la qualité du
+demandeur, sur les fonctions qu'il remplit, les services qui lui ont valu la distinction dont il désire porter les insignes.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R163 (T)
+
+
+###### Article R207
+
+Toute demande d'autorisation formée par un Français qui n'est pas membre d'un des deux ordres nationaux ou détenteur de la
+Médaille militaire doit être accompagnée d'un document d'état civil.
+
+L'autorité qui transmet la demande doit y joindre le bulletin n° 2 du casier judiciaire de l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Modifié par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 24
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R164 (T)
+
+
+### TITRE III : Exécution des arrêtés.<a id=98></a>
+
+###### Article R208
+
+Une ampliation, en forme de brevet, de l'arrêté portant autorisation est délivrée à l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R165 (T)
+
+
+###### Article R209
+
+Il est perçu par la grande chancellerie de la Légion d'honneur, pour l'expédition des brevets, des droits de chancellerie
+dont le montant est fixé par décret.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R166 (T)
+
+
+###### Article R210
+
+La remise des droits de chancellerie pourra être accordée par le grand chancelier de la Légion d'honneur aux personnes qui
+justifieraient de l'impossibilité de les acquitter.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
+
+_Anciens textes_:
+
+  - Code de la Légion d'honneur et de la médaille m... - art. R167 (T)
+
+
+### TITRE IV : Discipline.<a id=99></a>
+
+###### Article R211
 
 Les dispositions disciplinaires prévues en matière de Légion d'honneur sont applicables aux Français titulaires de
 décorations étrangères.
@@ -3339,22 +4208,18 @@ formes déterminés pour les membres de la Légion d'honneur.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R168 (T)
 
 
-### TITRE V : Dispositions particulières.<a id=87></a>
+### TITRE V : Dispositions particulières.<a id=100></a>
 
-###### Article R169
+###### Article R212
 
 Les Français ayant obtenu des médailles commémoratives étrangères peuvent porter leur médaille après enregistrement, exempt
 de tout droit, à la grande chancellerie de la Légion d'honneur des brevets originaux sur lesquels est apposé le visa pour
@@ -3362,20 +4227,16 @@ autorisation.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R212 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R169 (T)
 
 
-###### Article R170
+###### Article R213
 
 Les demandes accompagnées des brevets originaux doivent être adressées au grand chancelier par l'intermédiaire du ministre
 dont relève le demandeur à raison de ses fonctions ou de son emploi ou du préfet de la résidence, si le demandeur n'exerce
@@ -3383,22 +4244,30 @@ aucune fonction publique.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R213 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R170 (T)
 
 
-## LIVRE IV : Dispositions pénales.<a id=88></a>
+## LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères<a id=101></a>
 
-###### Article R171
+### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=102></a>
+
+### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=103></a>
+
+### TITRE III : Exécution des arrêtés.<a id=104></a>
+
+### TITRE IV : Discipline.<a id=105></a>
+
+### TITRE V : Dispositions particulières.<a id=106></a>
+
+## LIVRE V : Dispositions pénales<a id=107></a>
+
+###### Article R214
 
 Est interdite la création ou la collation par des personnes physiques ou morales privées ou par des personnes morales
 publiques autres que l'Etat de décorations ou insignes de distinctions honorifiques présentant une ressemblance soit avec des
@@ -3412,24 +4281,16 @@ Les infractions aux dispositions qui précèdent sont punies des peines prévues
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
-_Modifié par_:
+_Anciens textes_:
 
-  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R214 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R171 (T)
 
 
-###### Article R172
+###### Article R215
 
 Sera puni d'une amende prévue pour les contraventions de 4e classe quiconque aura porté en public des insignes, rubans ou
 rosettes présentant une ressemblance avec ceux des décorations conférées par l'Etat français ou qui aura fait usage de grades
@@ -3437,51 +4298,39 @@ ou dignités dont la dénomination présente une ressemblance avec les grades et
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
-_Modifié par_:
+_Anciens textes_:
 
-  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
-
-**Liens**:
-
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R215 (V)
+  - Code de la Légion d'honneur et de la médaille m... - art. R172 (T)
 
 
-###### Article R173
+###### Article R216
 
 Sera puni d'une amende prévue pour les contraventions de 2e classe tout Français qui aura porté, sans avoir obtenu
-l'autorisation prévue par l'article R. 161, une décoration conférée par une puissance souveraine étrangère. 
+l'autorisation prévue par l'article R. 204, une décoration conférée par une puissance souveraine étrangère. 
 
 Sera punie d'une amende prévue pour les contraventions de 3e classe toute personne qui aura porté une décoration étrangère
 qui n'aurait pas été conférée par une puissance souveraine.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Créé par_:
 
-  - Décret n°62-1472 1962-11-28
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
 
 _Modifié par_:
 
-  - Décret n°81-1103 1981-12-04 art. 1 JORF 17 décembre 1981
+  - Décret n°2018-1007 du 21 novembre 2018 - art. 25
 
-**Liens**:
+_Anciens textes_:
 
-  - TRANSFERE: Décret n°2018-1007 du 21 novembre 2018 - art. 22
+  - Code de la Légion d'honneur et de la médaille m... - art. R173 (T)
 
 _Cite_:
 
-  - Code de la Légion d'honneur et de la médaille m... - art. R161 (V)
-
-_Nouveaux textes_:
-
-  - Code de la Légion d'honneur et de la médaille m... - art. R216 (V)
+  - Code de la légion d'honneur, de la Médaille militaire et de l'ordre national du Mérite - art. R204
 
 
