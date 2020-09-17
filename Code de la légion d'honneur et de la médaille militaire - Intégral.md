@@ -1,5 +1,5 @@
 # Code de la légion d'honneur et de la médaille militaire  
-Version Consolidée au 2018-12-01
+Version Consolidée au 2020-09-18
 ## Contenu: 
   - [Partie réglementaire - Décrets en Conseil d'Etat (art. R1 à R216)](#1)
     - [LIVRE I : Légion d'honneur (art. R1 à R135-6)](#2)
@@ -48,7 +48,7 @@ Version Consolidée au 2018-12-01
         - [CHAPITRE III : Décision et exécution. (art. R106 à R110)](#45)
       - [TITRE VI : Administration de l'ordre (art. R112 à R120)](#46)
         - [CHAPITRE I : Attributions du grand chancelier. (art. R112 à R118)](#47)
-        - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur. (art. R119)](#48)
+        - [CHAPITRE II : Attributions du conseil de l'ordre de la Légion d'honneur. (art. R119 à R119-1)](#48)
         - [CHAPITRE III : Régime financier. (art. R120)](#49)
       - [TITRE VII : Maisons d'éducation (art. R121 à R127)](#50)
         - [CHAPITRE I : But de l'institution. (art. R121 à R123)](#51)
@@ -95,19 +95,13 @@ Version Consolidée au 2018-12-01
         - [CHAPITRE III : Remise de l'insigne (art. R196 à R200)](#92)
       - [TITRE V : Discipline (art. 201)](#93)
       - [TITRE VI : Administration de l'Ordre (art. R202)](#94)
-    - [LIVRE III : Autorisation d'accepter et de porter des décorations étrangères (art. R203 à R213)](#95)
+    - [LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères (art. R203 à R213)](#95)
       - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art. R203 à R204)](#96)
       - [TITRE II : Présentation et instruction des demandes d'autorisation. (art. R205 à R207)](#97)
       - [TITRE III : Exécution des arrêtés. (art. R208 à R210)](#98)
       - [TITRE IV : Discipline. (art. R211)](#99)
       - [TITRE V : Dispositions particulières. (art. R212 à R213)](#100)
-    - [LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères (art.  à R213)](#101)
-      - [TITRE I : Conditions d'acceptation et de port des décorations étrangères. (art.  à R213)](#102)
-      - [TITRE II : Présentation et instruction des demandes d'autorisation. (art.  à R213)](#103)
-      - [TITRE III : Exécution des arrêtés. (art.  à R213)](#104)
-      - [TITRE IV : Discipline. (art.  à R213)](#105)
-      - [TITRE V : Dispositions particulières. (art.  à R213)](#106)
-    - [LIVRE V : Dispositions pénales (art. R214 à R216)](#107)
+    - [LIVRE V : Dispositions pénales (art. R214 à R216)](#101)
 # Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
 
 ## LIVRE I : Légion d'honneur<a id=2></a>
@@ -311,10 +305,11 @@ _Modifié par_:
 
 ###### Article R13
 
-Le conseil de l'ordre est renouvelé par moitié tous les deux ans. Les membres sortants peuvent être nommés à nouveau.
+Le conseil de l'ordre est renouvelé par moitié constituée en série tous les deux ans. Les membres sortants peuvent être
+nommés à nouveau.
 
-Quelle que soit la date de leur nomination, le mandat des membres prend fin à la date du renouvellement de la série au titre
-de laquelle ils ont été nommés.
+Quelle que soit la date de leur nomination, le mandat des membres prend fin le 31 janvier de l'année de renouvellement de la
+série au titre de laquelle ils ont été nommés.
 
 Le mandat d'un membre du conseil de l'ordre nommé en remplacement d'un membre décédé ou démissionnaire court jusqu'à
 l'expiration du mandat du membre qu'il remplace.
@@ -327,7 +322,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 5
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 3
 
 
 #### CHAPITRE V : Admission et avancement dans l'ordre.<a id=8></a>
@@ -2288,30 +2283,44 @@ _Modifié par_:
 
 ###### Article R119
 
-I. – Le conseil de l'ordre de la Légion d'honneur veille à l'observation des statuts et règlements de l'ordre et des
-établissements qui en dépendent. 
+Le conseil de l'ordre de la Légion d'honneur veille à l'observation des statuts et règlements de l'ordre et des
+établissements qui en dépendent.
 
 Il vérifie si les nominations et promotions dans la Légion d'honneur sont faites en conformité des lois, décrets et
-règlements en vigueur ainsi que des principes fondamentaux de l'ordre. 
+règlements en vigueur ainsi que des principes fondamentaux de l'ordre.
 
-Le conseil de l'ordre, réuni par le grand chancelier, donne son avis : 
+Le conseil de l'ordre, réuni par le grand chancelier, donne son avis :
 
 1° Sur les sanctions disciplinaires à prendre à l'encontre de membres de l'ordre et sous réserve des dispositions de
-l'article R. 135-5 sur le retrait des distinctions de la Légion d'honneur accordées à des étrangers. 
+l'article R. 135-5 sur le retrait des distinctions de la Légion d'honneur accordées à des étrangers.
 
-2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter. 
+2° Sur toutes les questions pour lesquelles le grand chancelier juge utile de le consulter.
 
-Il approuve le budget de l'ordre et est tenu informé de son exécution par le grand chancelier. 
+Il approuve le budget de l'ordre et est tenu informé de son exécution par le grand chancelier.
 
-II. – Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas
-atteint, le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit
-le nombre de membres présents. 
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 1
+
+
+###### Article R119-1
+
+Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas atteint,
+le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit le
+nombre de membres présents.
+
+Le grand chancelier peut décider qu'une séance du conseil de l'ordre sera organisée au moyen d'une conférence téléphonique ou
+audiovisuelle dans les conditions définies au I de l'article 4 de l'ordonnance n° 2014-1329 du 6 novembre 2014 relative aux
+délibérations à distance des instances administratives à caractère collégial.
 
 En cas de nécessité, le conseil, réuni par le grand chancelier, peut donner son avis sur toute question, à l'exception des
-mesures disciplinaires et de retrait mentionnées au cinquième alinéa du I, selon l'une des modalités suivantes : 
+mesures disciplinaires et de retrait mentionnées au quatrième alinéa de l'article R. 119, selon l'une des modalités
+suivantes :
 
 1° Les membres peuvent être autorisés à donner mandat à un autre membre. Nul ne peut détenir plus d'un mandat. Dans ce cas,
-pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil. 
+pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil ;
 
 2° La délibération peut être organisée selon les modalités prévues par le décret n° 2014-1627 du 26 décembre 2014 relatif aux
 modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Dans ce cas, les
@@ -2321,11 +2330,12 @@ membres ne sont pas autorisés à donner mandat à un autre membre.
 
 _Cite_:
 
-  - Décret n°2014-1627 du 26 décembre 2014
+  - ORDONNANCE n°2014-1329 du 6 novembre 2014 - art. 4 (V)
+  - Décret n°2014-1627 du 26 décembre 2014 (V)
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 15
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 1
 
 
 #### CHAPITRE III : Régime financier.<a id=49></a>
@@ -3417,10 +3427,11 @@ _Nouveaux textes_:
 
 ###### Article R167
 
-Le conseil de l'ordre est renouvelé par moitié tous les deux ans. Les membres sortants peuvent être nommés à nouveau.
+Le conseil de l'ordre est renouvelé par moitié constituée en série tous les deux ans. Les membres sortants peuvent être
+nommés à nouveau.
 
-Quelle que soit la date de leur nomination, le mandat des membres prend fin à la date du renouvellement de la série au titre
-de laquelle ils ont été nommés.
+Quelle que soit la date de leur nomination, le mandat des membres prend fin le 31 janvier de l'année de renouvellement de la
+série au titre de laquelle ils ont été nommés.
 
 Le mandat d'un membre du conseil de l'ordre nommé en remplacement d'un membre décédé ou démissionnaire court jusqu'à
 l'expiration du mandat du membre qu'il remplace.
@@ -3437,8 +3448,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 4
 
 _Nouveaux textes_:
 
@@ -3447,23 +3457,9 @@ _Nouveaux textes_:
 
 ###### Article R168
 
-I. – Le conseil de l'ordre délibère sur les questions concernant les statuts de l'ordre, les nominations, les promotions et
-la discipline des membres de l'ordre ainsi que, sous réserve des dispositions de l'article R. 187, sur le retrait des
+Le conseil de l'ordre délibère sur les questions concernant les statuts de l'ordre, les nominations, les promotions et la
+discipline des membres de l'ordre ainsi que, sous réserve des dispositions de l'article R. 187, sur le retrait des
 distinctions de l'ordre national du Mérite à des étrangers.
-
-II. – Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas
-atteint, le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit
-le nombre de membres présents.
-
-En cas de nécessité, le conseil, réuni par le chancelier, peut donner son avis sur toute question, à l'exception des mesures
-disciplinaires et de retrait, selon l'une des modalités suivantes :
-
-1° Les membres peuvent être autorisés à donner mandat à un autre membre. Nul ne peut détenir plus d'un mandat. Dans ce cas,
-pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil ;
-
-2° La délibération peut être organisée selon les modalités prévues par le  décret n° 2014-1627 du 26 décembre 2014 relatif
-aux modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Dans ce cas,
-les membres ne sont pas autorisés à donner mandat à un autre membre.
 
 **Liens relatifs à cet article**
 
@@ -3477,12 +3473,43 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 22
-  - Décret n°2018-1007 du 21 novembre 2018 - art. 23
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 2
 
 _Nouveaux textes_:
 
   - Code de la Légion d'honneur et de la médaille m... - art. R211 (V)
+
+
+###### Article R168-1
+
+Pour délibérer valablement, doivent être présents la moitié au moins des membres du conseil. Si le quorum n'est pas atteint,
+le conseil est convoqué sur le même ordre du jour dans les quinze jours. Il délibère alors valablement quel que soit le
+nombre de membres présents.
+
+Le chancelier peut décider qu'une séance du conseil de l'ordre sera organisée au moyen d'une conférence téléphonique ou
+audiovisuelle dans les conditions définies au I de l'article 4 de l'ordonnance n° 2014-1329 du 6 novembre 2014 relative aux
+délibérations à distance des instances administratives à caractère collégial.
+
+En cas de nécessité, le conseil, réuni par le chancelier, peut donner son avis sur toute question, à l'exception des mesures
+disciplinaires et de retrait mentionnées à l'article R. 168, selon l'une des modalités suivantes :
+
+1° Les membres peuvent être autorisés à donner mandat à un autre membre. Nul ne peut détenir plus d'un mandat. Dans ce cas,
+pour délibérer valablement, doivent être présents ou avoir donné mandat la moitié au moins des membres du conseil ;
+
+2° La délibération peut être organisée selon les modalités prévues par le décret n° 2014-1627 du 26 décembre 2014 relatif aux
+modalités d'organisation des délibérations à distance des instances administratives à caractère collégial. Dans ce cas, les
+membres ne sont pas autorisés à donner mandat à un autre membre.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - ORDONNANCE n°2014-1329 du 6 novembre 2014 - art. 4
+  - Décret n°2014-1627 du 26 décembre 2014
+
+_Créé par_:
+
+  - Décret n°2020-1137 du 16 septembre 2020 - art. 2
 
 
 ###### Article R169
@@ -4047,7 +4074,7 @@ _Créé par_:
   - Décret n°2018-1007 du 21 novembre 2018 - art. 23
 
 
-## LIVRE III : Autorisation d'accepter et de porter des décorations étrangères<a id=95></a>
+## LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères<a id=95></a>
 
 ### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=96></a>
 
@@ -4254,19 +4281,7 @@ _Anciens textes_:
   - Code de la Légion d'honneur et de la médaille m... - art. R170 (T)
 
 
-## LIVRE IV : Autorisation d'accepter et de porter des décorations étrangères<a id=101></a>
-
-### TITRE I : Conditions d'acceptation et de port des décorations étrangères.<a id=102></a>
-
-### TITRE II : Présentation et instruction des demandes d'autorisation.<a id=103></a>
-
-### TITRE III : Exécution des arrêtés.<a id=104></a>
-
-### TITRE IV : Discipline.<a id=105></a>
-
-### TITRE V : Dispositions particulières.<a id=106></a>
-
-## LIVRE V : Dispositions pénales<a id=107></a>
+## LIVRE V : Dispositions pénales<a id=101></a>
 
 ###### Article R214
 
